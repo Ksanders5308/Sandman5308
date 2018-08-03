@@ -1,0 +1,1661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c4p>
+  <autorun appid="com.codeweavers.c4.523"/><applications>
+    <app appid="com.codeweavers.c4.523" timestamp="2018-07-06T14:37:11-05:00">
+      <cxversion product="cxgames">13.0.1</cxversion>
+      <name>RollerCoaster Tycoon 2</name>
+      <name lang="en">RollerCoaster Tycoon 2</name>
+      <name lang="zh">过山车大亨 2</name>
+      <name lang="zh-cn">过山车大亨 2</name>
+      <contributor userid="328137">Paulthetall</contributor>
+      <appprofile>
+        <description>Let your imagination run wild! Get ready to experience all the excitement behind the design and construction of your very own theme park.</description>
+        <description lang="en">Let your imagination run wild! Get ready to experience all the excitement behind the design and construction of your very own theme park.</description>
+        <medal rating="5" platform="Mac" version="9.2.0" num="1" last="2010-11-03T09:59:47-05:00">ungold</medal>
+        <medal rating="4" platform="Linux" version="10.1.0" num="1" last="2011-05-17T07:07:21-05:00">unsilver</medal>
+        <medal rating="5" platform="Mac" version="10.1.0" num="1" last="2011-05-07T12:12:42-05:00">ungold</medal>
+        <medal rating="4" platform="Linux" version="10.1.1" num="1" last="2011-10-03T05:52:03-05:00">unsilver</medal>
+        <medal rating="5" platform="Mac" version="10.2.1" num="1" last="2011-12-30T22:02:10-06:00">ungold</medal>
+        <medal rating="5" platform="Mac" version="11.0.2" num="1" last="2012-03-23T20:52:39-05:00">ungold</medal>
+        <medal rating="1" platform="Mac" version="11.2.1" num="1" last="2012-09-08T20:26:18-05:00">knownnottowork</medal>
+        <medal rating="3" platform="Mac" version="11.2.2" num="2" last="2012-11-03T05:36:15-05:00">unbronze</medal>
+        <medal rating="5" platform="Linux" version="11.3.0" num="1" last="2013-01-12T13:20:23-06:00">ungold</medal>
+        <medal rating="5" platform="Mac" version="11.3.0" num="1" last="2013-07-15T05:12:48-05:00">ungold</medal>
+        <medal rating="1" platform="Mac" version="12.1.1" num="1" last="2013-02-03T19:21:26-06:00">knownnottowork</medal>
+        <medal rating="5" platform="Mac" version="12.5.1" num="1" last="2013-11-10T06:22:56-06:00">ungold</medal>
+        <medal rating="5" platform="Mac" version="13.0.1" num="1" last="2013-12-12T15:18:25-06:00">ungold</medal>
+        <medal rating="5" platform="Mac" version="13.1.2" num="2" last="2014-04-14T13:08:40-05:00">ungold</medal>
+        <medal rating="5" platform="Mac" version="14.1.0" num="1" last="2015-04-16T19:35:22-05:00">ungold</medal>
+        <medal rating="5" platform="Mac" version="14.1.1" num="1" last="2015-05-11T13:26:42-05:00">ungold</medal>
+        <medal rating="5" platform="Mac" version="14.1.3" num="1" last="2015-05-27T16:44:37-05:00">ungold</medal>
+        <medal rating="3" platform="Mac" version="15.0.0" num="2" last="2016-01-03T11:52:21-06:00">unbronze</medal>
+        <medal rating="4" platform="Mac" version="15.0.1" num="2" last="2016-02-25T15:57:17-06:00">unsilver</medal>
+        <medal rating="5" platform="Mac" version="15.2.0" num="1" last="2016-08-24T11:22:24-05:00">ungold</medal>
+        <medal rating="5" platform="Linux" version="16.0.0" num="1" last="2016-12-17T18:07:30-06:00">ungold</medal>
+        <category>Games/Strategy Games</category>
+        <flag>application</flag>
+        <installedkeypattern>GOGPACKRCT2_is1|{2DA75DC7-0865-4BAD-BA86-074500CC350E}</installedkeypattern>
+        <bottletemplate>win7</bottletemplate>
+        <downloadpageurl>http://www.gog.com/game/rollercoaster_tycoon_2</downloadpageurl>
+        <downloadglob>setup_rollercoaster_tycoon2*.exe</downloadglob>
+        <steamid>285330</steamid>
+      </appprofile>
+      <installprofile>
+        <installnotes lang="en">&lt;p&gt;This game works great! I used the DRM free game version of GOG.com in my tests. Advise to use their version because the CD version runs into Copy Protection.&lt;/p&gt;
+&lt;p&gt;Use the "This software can be downloaded from its home page" link above to go to the GOG.com website.&lt;/p&gt;</installnotes>
+        <predependency>com.codeweavers.c4.5917</predependency>
+      </installprofile>
+    </app>
+    <app appid="com.codeweavers.c4.5917" timestamp="2013-10-08T09:33:03-05:00">
+      <cxversion product="cxoffice">11.3</cxversion>
+      <name>Microsoft .NET Framework 4.0</name>
+      <name lang="en">Microsoft .NET Framework 4.0</name>
+      <name lang="fr">Microsoft .NET Framework 4.0</name>
+      <name lang="ja">Microsoft .NET Framework 4.0</name>
+      <name lang="pl">Microsoft .NET Framework 2.0</name>
+      <contributor userid="408684">Silviu Cojocaru</contributor>
+      <appprofile>
+        <description>The .NET Framework is a standardized, language-agnostic set of libraries aimed at Windows development.</description>
+        <description lang="en">The .NET Framework is a standardized, language-agnostic set of libraries aimed at Windows development.</description>
+        <description lang="ja">.NET Framework は、 Windows プログラムの開発に利用する全ての言語から利用可能な標準ライブラリです。</description>
+        <medal rating="1" platform="Linux" version="9.0.1" num="1" last="2010-06-21T12:38:11-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.0.1" num="1" last="2010-07-08T02:43:49-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.1.0" num="2" last="2010-09-19T20:38:56-05:00">knownnottowork</medal>
+        <medal rating="3" platform="Mac" version="9.1.0" num="1" last="2010-08-17T00:22:38-05:00">unbronze</medal>
+        <medal rating="1" platform="Linux" version="9.2.0" num="1" last="2011-01-25T10:53:40-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.2.0" num="2" last="2012-03-29T05:51:24-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.0" num="2" last="2011-04-21T12:06:06-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.3" num="1" last="2011-05-10T11:41:14-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.1.0" num="1" last="2011-10-23T07:23:29-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.2.0" num="1" last="2012-03-31T22:58:25-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="11.0.0" num="1" last="2012-03-14T10:25:58-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="11.0.2" num="1" last="2012-04-02T10:02:32-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="11.0.3" num="2" last="2012-05-26T04:52:17-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="11.1.0" num="1" last="2012-06-07T01:51:24-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="11.2.1" num="1" last="2012-08-28T20:10:51-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="11.2.2" num="1" last="2012-10-11T07:43:45-05:00">knownnottowork</medal>
+        <medal rating="3" platform="Linux" version="11.3.0" num="1" last="2012-11-09T22:03:34-06:00">unbronze</medal>
+        <medal rating="3" platform="Linux" version="12.0.0" num="5" last="2013-01-09T18:45:15-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.0.0" num="4" last="2012-12-22T23:08:56-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.0" num="1" last="2013-02-14T13:12:03-06:00">bronze</medal>
+        <medal rating="4" platform="Mac" version="12.1.0" num="1" last="2013-01-18T11:46:25-06:00">silver</medal>
+        <medal rating="3" platform="Mac" version="12.1.1" num="1" last="2013-03-26T12:44:34-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.2" num="1" last="2013-04-29T13:20:14-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.2" num="2" last="2013-04-01T05:16:51-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.0" num="0" last="2013-05-01T14:09:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.0" num="0" last="2013-05-01T14:09:20-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.1" num="1" last="2013-05-17T10:18:53-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.1" num="1" last="2013-05-17T10:18:33-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.2" num="0" last="2013-07-22T11:13:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.2" num="1" last="2013-07-31T05:49:01-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.0" num="0" last="2013-06-19T10:20:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.0" num="1" last="2013-08-26T17:17:39-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.1" num="0" last="2013-10-16T14:37:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.1" num="0" last="2013-10-16T14:36:57-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.0" num="0" last="2013-11-01T11:35:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.0" num="2" last="2014-01-15T16:56:18-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.1" num="0" last="2013-12-04T13:47:44-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.1" num="1" last="2013-12-18T16:12:57-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.0" num="1" last="2014-03-18T19:42:29-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.0" num="1" last="2014-02-16T21:12:37-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.2" num="0" last="2014-03-19T11:29:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.2" num="0" last="2014-03-19T11:29:23-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.3" num="0" last="2014-04-28T09:49:20-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.3" num="0" last="2014-04-28T09:49:09-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.2.0" num="0" last="2014-07-10T09:49:10-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.2.0" num="0" last="2014-07-10T09:49:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.0" num="1" last="2015-07-09T04:58:48-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.0" num="0" last="2014-09-12T14:22:14-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.1" num="0" last="2014-10-30T08:57:24-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.1" num="0" last="2014-10-30T08:57:18-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.3" num="0" last="2014-11-17T10:36:28-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.3" num="0" last="2014-11-17T10:36:20-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.0" num="0" last="2015-03-19T13:19:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.0" num="1" last="2015-03-20T02:11:43-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.1" num="0" last="2015-04-21T11:08:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.1" num="0" last="2015-04-21T11:08:45-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.3" num="0" last="2015-05-18T13:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.3" num="0" last="2015-05-18T13:13:08-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.4" num="0" last="2015-06-25T10:48:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.4" num="0" last="2015-06-25T10:48:38-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.6" num="0" last="2015-09-02T15:27:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.6" num="0" last="2015-09-02T15:27:40-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.8" num="0" last="2015-09-29T13:57:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.8" num="0" last="2015-09-29T13:57:10-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.10" num="0" last="2015-10-08T13:40:38-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.10" num="0" last="2015-10-08T13:40:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.11" num="0" last="2015-10-29T10:26:21-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.11" num="0" last="2015-10-29T10:26:03-05:00">bronze</medal>
+        <medal rating="4" platform="Linux" version="15.0.0" num="1" last="2015-12-15T16:05:45-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="15.0.0" num="1" last="2015-12-15T16:05:42-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="15.3.1" num="1" last="2016-12-09T15:23:51-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="16.2.0" num="1" last="2017-07-07T11:42:05-05:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="16.2.5" num="1" last="2017-07-24T11:50:56-05:00">unsilver</medal>
+        <category>Non-Applications/Components</category>
+        <flag>component</flag>
+        <installedkeypattern>Microsoft .NET Framework 4.*</installedkeypattern>
+        <installeddisplaypattern>Microsoft .NET Framework 4.*</installeddisplaypattern>
+        <bottletemplate>winxp</bottletemplate>
+        <bottletemplate>winvista</bottletemplate>
+        <bottletemplate>win7</bottletemplate>
+        <downloadurl>http://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe</downloadurl>
+        <downloadpageurl>https://www.microsoft.com/en-us/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="en">https://www.microsoft.com/en-us/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="ru">https://www.microsoft.com/ru-ru/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="es">https://www.microsoft.com/es-es/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="sv">https://www.microsoft.com/sv-se/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="tr">https://www.microsoft.com/tr-tr/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="pl">https://www.microsoft.com/pl-pl/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="pt-br">https://www.microsoft.com/pt-br/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="pt">https://www.microsoft.com/pt-pt/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="zh-cn">https://www.microsoft.com/zh-cn/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="zh-tw">https://www.microsoft.com/zh-tw/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="cs">https://www.microsoft.com/cs-cz/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="da">https://www.microsoft.com/da-dk/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="nl">https://www.microsoft.com/nl-nl/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="fi">https://www.microsoft.com/fi-fi/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="fr">https://www.microsoft.com/fr-fr/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="de">https://www.microsoft.com/de-de/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="el">https://www.microsoft.com/el-gr/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="hu">https://www.microsoft.com/hu-hu/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="it">https://www.microsoft.com/it-it/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="ja">https://www.microsoft.com/ja-jp/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="ko">https://www.microsoft.com/ko-kr/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="nb">https://www.microsoft.com/nb-no/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl>https://www.microsoft.com/en-us/download/details.aspx?id=17718</downloadpageurl>
+        <downloadglob>dotNetFx40_Full_x86_x64.exe</downloadglob>
+      </appprofile>
+      <installprofile>
+        <comment>20130117 - switched the setting to always tell CrossOver this app is installing in a winXP bottle due to the tip added 2013-01-16 09:19 by Gavin Jacobs. The tip should now be obsolete but needs testing.
+
+Removing dependencies on gdi+ and .net 3, as the .net 4 installer seems to do fine without them.
+20121109 - added .NET 2.0 as pre-dep (credit A. Moreno for testing). Pushed .tie for publishing. Allows me to fix my Terraria stub
+
+20130312 - don't install .NET 2.0 as a dependency, .NET 4.0 doesn't depend on it. (bug 10600)
+
+20130708 - added back .Net 2.0 (bug 11052)
+
+20130919 - added dependency on libxml2</comment>
+        <predependency>com.codeweavers.c4.1578</predependency>
+        <cxdiagcheck>AppRequire:MissingLibXml2</cxdiagcheck>
+        <cxdiagcheck>Closed</cxdiagcheck>
+        <installerwinver>winxp</installerwinver>
+        <installerdlloverrides>fusion=b</installerdlloverrides>
+        <postinstallreboot>true</postinstallreboot>
+        <preinstallregistry>
+          <key>HKEY_CURRENT_USER\Software\Wine\DllOverrides</key>
+          <value>
+            <name>mscoree</name>
+            <data>native</data>
+          </value>
+        </preinstallregistry>
+      </installprofile>
+      <installprofile appid="com.codeweavers.c4.206">
+        <comment>This ensures that, if steam is installed, this profile installs before it.</comment>
+        <predependency>com.codeweavers.c4.5917</predependency>
+      </installprofile>
+    </app>
+    <app appid="com.codeweavers.c4.5917" timestamp="2016-06-23T14:40:13-05:00">
+      <cxversion product="cxoffice">15.0.0</cxversion>
+      <name>Microsoft .NET Framework 4.0</name>
+      <name lang="en">Microsoft .NET Framework 4.0</name>
+      <name lang="fr">Microsoft .NET Framework 4.0</name>
+      <name lang="ja">Microsoft .NET Framework 4.0</name>
+      <name lang="pl">Microsoft .NET Framework 2.0</name>
+      <contributor userid="408684">Silviu Cojocaru</contributor>
+      <appprofile>
+        <description>The .NET Framework is a standardized, language-agnostic set of libraries aimed at Windows development.</description>
+        <description lang="en">The .NET Framework is a standardized, language-agnostic set of libraries aimed at Windows development.</description>
+        <description lang="ja">.NET Framework は、 Windows プログラムの開発に利用する全ての言語から利用可能な標準ライブラリです。</description>
+        <comment>20160623 - Added 64-bit and win8/win10 bottle templates.</comment>
+        <medal rating="1" platform="Linux" version="9.0.1" num="1" last="2010-06-21T12:38:11-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.0.1" num="1" last="2010-07-08T02:43:49-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.1.0" num="2" last="2010-09-19T20:38:56-05:00">knownnottowork</medal>
+        <medal rating="3" platform="Mac" version="9.1.0" num="1" last="2010-08-17T00:22:38-05:00">unbronze</medal>
+        <medal rating="1" platform="Linux" version="9.2.0" num="1" last="2011-01-25T10:53:40-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.2.0" num="2" last="2012-03-29T05:51:24-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.0" num="2" last="2011-04-21T12:06:06-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.3" num="1" last="2011-05-10T11:41:14-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.1.0" num="1" last="2011-10-23T07:23:29-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.2.0" num="1" last="2012-03-31T22:58:25-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="11.0.0" num="1" last="2012-03-14T10:25:58-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="11.0.2" num="1" last="2012-04-02T10:02:32-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="11.0.3" num="2" last="2012-05-26T04:52:17-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="11.1.0" num="1" last="2012-06-07T01:51:24-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="11.2.1" num="1" last="2012-08-28T20:10:51-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="11.2.2" num="1" last="2012-10-11T07:43:45-05:00">knownnottowork</medal>
+        <medal rating="3" platform="Linux" version="11.3.0" num="1" last="2012-11-09T22:03:34-06:00">unbronze</medal>
+        <medal rating="3" platform="Linux" version="12.0.0" num="5" last="2013-01-09T18:45:15-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.0.0" num="4" last="2012-12-22T23:08:56-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.0" num="1" last="2013-02-14T13:12:03-06:00">bronze</medal>
+        <medal rating="4" platform="Mac" version="12.1.0" num="1" last="2013-01-18T11:46:25-06:00">silver</medal>
+        <medal rating="3" platform="Mac" version="12.1.1" num="1" last="2013-03-26T12:44:34-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.2" num="1" last="2013-04-29T13:20:14-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.2" num="2" last="2013-04-01T05:16:51-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.0" num="0" last="2013-05-01T14:09:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.0" num="0" last="2013-05-01T14:09:20-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.1" num="1" last="2013-05-17T10:18:53-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.1" num="1" last="2013-05-17T10:18:33-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.2" num="0" last="2013-07-22T11:13:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.2" num="1" last="2013-07-31T05:49:01-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.0" num="0" last="2013-06-19T10:20:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.0" num="1" last="2013-08-26T17:17:39-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.1" num="0" last="2013-10-16T14:37:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.1" num="0" last="2013-10-16T14:36:57-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.0" num="0" last="2013-11-01T11:35:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.0" num="2" last="2014-01-15T16:56:18-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.1" num="0" last="2013-12-04T13:47:44-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.1" num="1" last="2013-12-18T16:12:57-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.0" num="1" last="2014-03-18T19:42:29-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.0" num="1" last="2014-02-16T21:12:37-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.2" num="0" last="2014-03-19T11:29:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.2" num="0" last="2014-03-19T11:29:23-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.3" num="0" last="2014-04-28T09:49:20-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.3" num="0" last="2014-04-28T09:49:09-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.2.0" num="0" last="2014-07-10T09:49:10-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.2.0" num="0" last="2014-07-10T09:49:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.0" num="1" last="2015-07-09T04:58:48-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.0" num="0" last="2014-09-12T14:22:14-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.1" num="0" last="2014-10-30T08:57:24-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.1" num="0" last="2014-10-30T08:57:18-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.3" num="0" last="2014-11-17T10:36:28-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.3" num="0" last="2014-11-17T10:36:20-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.0" num="0" last="2015-03-19T13:19:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.0" num="1" last="2015-03-20T02:11:43-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.1" num="0" last="2015-04-21T11:08:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.1" num="0" last="2015-04-21T11:08:45-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.3" num="0" last="2015-05-18T13:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.3" num="0" last="2015-05-18T13:13:08-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.4" num="0" last="2015-06-25T10:48:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.4" num="0" last="2015-06-25T10:48:38-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.6" num="0" last="2015-09-02T15:27:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.6" num="0" last="2015-09-02T15:27:40-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.8" num="0" last="2015-09-29T13:57:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.8" num="0" last="2015-09-29T13:57:10-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.10" num="0" last="2015-10-08T13:40:38-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.10" num="0" last="2015-10-08T13:40:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.11" num="0" last="2015-10-29T10:26:21-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.11" num="0" last="2015-10-29T10:26:03-05:00">bronze</medal>
+        <medal rating="4" platform="Linux" version="15.0.0" num="1" last="2015-12-15T16:05:45-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="15.0.0" num="1" last="2015-12-15T16:05:42-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="15.3.1" num="1" last="2016-12-09T15:23:51-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="16.2.0" num="1" last="2017-07-07T11:42:05-05:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="16.2.5" num="1" last="2017-07-24T11:50:56-05:00">unsilver</medal>
+        <category>Non-Applications/Components</category>
+        <flag>component</flag>
+        <installedkeypattern>Microsoft .NET Framework 4.*</installedkeypattern>
+        <installeddisplaypattern>Microsoft .NET Framework 4.*</installeddisplaypattern>
+        <bottletemplate>winxp</bottletemplate>
+        <bottletemplate>winvista</bottletemplate>
+        <bottletemplate>win7</bottletemplate>
+        <bottletemplate>win8</bottletemplate>
+        <bottletemplate>win10</bottletemplate>
+        <bottletemplate>winxp_64</bottletemplate>
+        <bottletemplate>winvista_64</bottletemplate>
+        <bottletemplate>win7_64</bottletemplate>
+        <bottletemplate>win8_64</bottletemplate>
+        <bottletemplate>win10_64</bottletemplate>
+        <downloadurl>http://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe</downloadurl>
+        <downloadpageurl>https://www.microsoft.com/en-us/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="en">https://www.microsoft.com/en-us/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="ru">https://www.microsoft.com/ru-ru/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="es">https://www.microsoft.com/es-es/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="sv">https://www.microsoft.com/sv-se/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="tr">https://www.microsoft.com/tr-tr/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="pl">https://www.microsoft.com/pl-pl/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="pt-br">https://www.microsoft.com/pt-br/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="pt">https://www.microsoft.com/pt-pt/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="zh-cn">https://www.microsoft.com/zh-cn/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="zh-tw">https://www.microsoft.com/zh-tw/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="cs">https://www.microsoft.com/cs-cz/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="da">https://www.microsoft.com/da-dk/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="nl">https://www.microsoft.com/nl-nl/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="fi">https://www.microsoft.com/fi-fi/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="fr">https://www.microsoft.com/fr-fr/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="de">https://www.microsoft.com/de-de/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="el">https://www.microsoft.com/el-gr/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="hu">https://www.microsoft.com/hu-hu/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="it">https://www.microsoft.com/it-it/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="ja">https://www.microsoft.com/ja-jp/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="ko">https://www.microsoft.com/ko-kr/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="nb">https://www.microsoft.com/nb-no/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl>https://www.microsoft.com/en-us/download/details.aspx?id=17718</downloadpageurl>
+        <downloadglob>dotNetFx40_Full_x86_x64.exe</downloadglob>
+      </appprofile>
+      <installprofile>
+        <comment>20160317 - turned on always re-download the installer.
+
+20130117 - switched the setting to always tell CrossOver this app is installing in a winXP bottle due to the tip added 2013-01-16 09:19 by Gavin Jacobs. The tip should now be obsolete but needs testing.
+
+Removing dependencies on gdi+ and .net 3, as the .net 4 installer seems to do fine without them.
+20121109 - added .NET 2.0 as pre-dep (credit A. Moreno for testing). Pushed .tie for publishing. Allows me to fix my Terraria stub
+
+20130312 - don't install .NET 2.0 as a dependency, .NET 4.0 doesn't depend on it. (bug 10600)
+
+20130708 - added back .Net 2.0 (bug 11052)
+
+20130919 - added dependency on libxml2</comment>
+        <predependency>com.codeweavers.c4.1578</predependency>
+        <cxdiagcheck>AppRequire:MissingLibXml2</cxdiagcheck>
+        <cxdiagcheck>Closed</cxdiagcheck>
+        <alwaysredownload>true</alwaysredownload>
+        <installerwinver>winxp</installerwinver>
+        <installerdlloverrides>fusion=b</installerdlloverrides>
+        <postinstallreboot>true</postinstallreboot>
+        <preinstallregistry>
+          <key>HKEY_CURRENT_USER\Software\Wine\DllOverrides</key>
+          <value>
+            <name>mscoree</name>
+            <data>native</data>
+          </value>
+        </preinstallregistry>
+      </installprofile>
+      <installprofile appid="com.codeweavers.c4.206">
+        <comment>This ensures that, if steam is installed, this profile installs before it.</comment>
+        <predependency>com.codeweavers.c4.5917</predependency>
+      </installprofile>
+    </app>
+    <app appid="com.codeweavers.c4.5917" timestamp="2017-08-10T13:49:30-05:00">
+      <cxversion product="cxoffice">15.5</cxversion>
+      <name>Microsoft .NET Framework 4.0</name>
+      <name lang="en">Microsoft .NET Framework 4.0</name>
+      <name lang="fr">Microsoft .NET Framework 4.0</name>
+      <name lang="ja">Microsoft .NET Framework 4.0</name>
+      <name lang="pl">Microsoft .NET Framework 2.0</name>
+      <contributor userid="408684">Silviu Cojocaru</contributor>
+      <appprofile>
+        <description>The .NET Framework is a standardized, language-agnostic set of libraries aimed at Windows development.</description>
+        <description lang="en">The .NET Framework is a standardized, language-agnostic set of libraries aimed at Windows development.</description>
+        <description lang="ja">.NET Framework は、 Windows プログラムの開発に利用する全ての言語から利用可能な標準ライブラリです。</description>
+        <comment>20160623 - Added 64-bit and win8/win10 bottle templates.
+20170810 - Changed .NET 2 dependency to SP2 so SP2 doesn't install after this.</comment>
+        <medal rating="1" platform="Linux" version="9.0.1" num="1" last="2010-06-21T12:38:11-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.0.1" num="1" last="2010-07-08T02:43:49-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.1.0" num="2" last="2010-09-19T20:38:56-05:00">knownnottowork</medal>
+        <medal rating="3" platform="Mac" version="9.1.0" num="1" last="2010-08-17T00:22:38-05:00">unbronze</medal>
+        <medal rating="1" platform="Linux" version="9.2.0" num="1" last="2011-01-25T10:53:40-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.2.0" num="2" last="2012-03-29T05:51:24-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.0" num="2" last="2011-04-21T12:06:06-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.3" num="1" last="2011-05-10T11:41:14-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.1.0" num="1" last="2011-10-23T07:23:29-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.2.0" num="1" last="2012-03-31T22:58:25-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="11.0.0" num="1" last="2012-03-14T10:25:58-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="11.0.2" num="1" last="2012-04-02T10:02:32-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="11.0.3" num="2" last="2012-05-26T04:52:17-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="11.1.0" num="1" last="2012-06-07T01:51:24-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="11.2.1" num="1" last="2012-08-28T20:10:51-05:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="11.2.2" num="1" last="2012-10-11T07:43:45-05:00">knownnottowork</medal>
+        <medal rating="3" platform="Linux" version="11.3.0" num="1" last="2012-11-09T22:03:34-06:00">unbronze</medal>
+        <medal rating="3" platform="Linux" version="12.0.0" num="5" last="2013-01-09T18:45:15-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.0.0" num="4" last="2012-12-22T23:08:56-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.0" num="1" last="2013-02-14T13:12:03-06:00">bronze</medal>
+        <medal rating="4" platform="Mac" version="12.1.0" num="1" last="2013-01-18T11:46:25-06:00">silver</medal>
+        <medal rating="3" platform="Mac" version="12.1.1" num="1" last="2013-03-26T12:44:34-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.2" num="1" last="2013-04-29T13:20:14-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.2" num="2" last="2013-04-01T05:16:51-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.0" num="0" last="2013-05-01T14:09:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.0" num="0" last="2013-05-01T14:09:20-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.1" num="1" last="2013-05-17T10:18:53-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.1" num="1" last="2013-05-17T10:18:33-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.2" num="0" last="2013-07-22T11:13:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.2" num="1" last="2013-07-31T05:49:01-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.0" num="0" last="2013-06-19T10:20:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.0" num="1" last="2013-08-26T17:17:39-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.1" num="0" last="2013-10-16T14:37:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.1" num="0" last="2013-10-16T14:36:57-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.0" num="0" last="2013-11-01T11:35:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.0" num="2" last="2014-01-15T16:56:18-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.1" num="0" last="2013-12-04T13:47:44-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.1" num="1" last="2013-12-18T16:12:57-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.0" num="1" last="2014-03-18T19:42:29-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.0" num="1" last="2014-02-16T21:12:37-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.2" num="0" last="2014-03-19T11:29:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.2" num="0" last="2014-03-19T11:29:23-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.3" num="0" last="2014-04-28T09:49:20-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.3" num="0" last="2014-04-28T09:49:09-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.2.0" num="0" last="2014-07-10T09:49:10-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.2.0" num="0" last="2014-07-10T09:49:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.0" num="1" last="2015-07-09T04:58:48-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.0" num="0" last="2014-09-12T14:22:14-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.1" num="0" last="2014-10-30T08:57:24-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.1" num="0" last="2014-10-30T08:57:18-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.3" num="0" last="2014-11-17T10:36:28-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.3" num="0" last="2014-11-17T10:36:20-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.0" num="0" last="2015-03-19T13:19:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.0" num="1" last="2015-03-20T02:11:43-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.1" num="0" last="2015-04-21T11:08:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.1" num="0" last="2015-04-21T11:08:45-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.3" num="0" last="2015-05-18T13:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.3" num="0" last="2015-05-18T13:13:08-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.4" num="0" last="2015-06-25T10:48:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.4" num="0" last="2015-06-25T10:48:38-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.6" num="0" last="2015-09-02T15:27:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.6" num="0" last="2015-09-02T15:27:40-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.8" num="0" last="2015-09-29T13:57:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.8" num="0" last="2015-09-29T13:57:10-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.10" num="0" last="2015-10-08T13:40:38-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.10" num="0" last="2015-10-08T13:40:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.11" num="0" last="2015-10-29T10:26:21-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.11" num="0" last="2015-10-29T10:26:03-05:00">bronze</medal>
+        <medal rating="4" platform="Linux" version="15.0.0" num="1" last="2015-12-15T16:05:45-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="15.0.0" num="1" last="2015-12-15T16:05:42-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="15.3.1" num="1" last="2016-12-09T15:23:51-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="16.2.0" num="1" last="2017-07-07T11:42:05-05:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="16.2.5" num="1" last="2017-07-24T11:50:56-05:00">unsilver</medal>
+        <category>Non-Applications/Components</category>
+        <flag>component</flag>
+        <installedkeypattern>Microsoft .NET Framework 4.*</installedkeypattern>
+        <installeddisplaypattern>Microsoft .NET Framework 4.*</installeddisplaypattern>
+        <bottletemplate>winxp</bottletemplate>
+        <bottletemplate>winvista</bottletemplate>
+        <bottletemplate>win7</bottletemplate>
+        <bottletemplate>win8</bottletemplate>
+        <bottletemplate>win10</bottletemplate>
+        <bottletemplate>winxp_64</bottletemplate>
+        <bottletemplate>winvista_64</bottletemplate>
+        <bottletemplate>win7_64</bottletemplate>
+        <bottletemplate>win8_64</bottletemplate>
+        <bottletemplate>win10_64</bottletemplate>
+        <downloadurl>http://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe</downloadurl>
+        <downloadpageurl>https://www.microsoft.com/en-us/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="en">https://www.microsoft.com/en-us/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="ru">https://www.microsoft.com/ru-ru/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="es">https://www.microsoft.com/es-es/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="sv">https://www.microsoft.com/sv-se/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="tr">https://www.microsoft.com/tr-tr/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="pl">https://www.microsoft.com/pl-pl/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="pt-br">https://www.microsoft.com/pt-br/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="pt">https://www.microsoft.com/pt-pt/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="zh-cn">https://www.microsoft.com/zh-cn/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="zh-tw">https://www.microsoft.com/zh-tw/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="cs">https://www.microsoft.com/cs-cz/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="da">https://www.microsoft.com/da-dk/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="nl">https://www.microsoft.com/nl-nl/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="fi">https://www.microsoft.com/fi-fi/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="fr">https://www.microsoft.com/fr-fr/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="de">https://www.microsoft.com/de-de/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="el">https://www.microsoft.com/el-gr/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="hu">https://www.microsoft.com/hu-hu/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="it">https://www.microsoft.com/it-it/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="ja">https://www.microsoft.com/ja-jp/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="ko">https://www.microsoft.com/ko-kr/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl lang="nb">https://www.microsoft.com/nb-no/download/details.aspx?id=17718</downloadpageurl>
+        <downloadpageurl>https://www.microsoft.com/en-us/download/details.aspx?id=17718</downloadpageurl>
+        <downloadglob>dotNetFx40_Full_x86_x64.exe</downloadglob>
+      </appprofile>
+      <installprofile>
+        <comment>20160317 - turned on always re-download the installer.
+
+20130117 - switched the setting to always tell CrossOver this app is installing in a winXP bottle due to the tip added 2013-01-16 09:19 by Gavin Jacobs. The tip should now be obsolete but needs testing.
+
+Removing dependencies on gdi+ and .net 3, as the .net 4 installer seems to do fine without them.
+20121109 - added .NET 2.0 as pre-dep (credit A. Moreno for testing). Pushed .tie for publishing. Allows me to fix my Terraria stub
+
+20130312 - don't install .NET 2.0 as a dependency, .NET 4.0 doesn't depend on it. (bug 10600)
+
+20130708 - added back .Net 2.0 (bug 11052)
+
+20130919 - added dependency on libxml2</comment>
+        <predependency>com.codeweavers.c4.6945</predependency>
+        <cxdiagcheck>AppRequire:MissingLibXml2</cxdiagcheck>
+        <cxdiagcheck>Closed</cxdiagcheck>
+        <alwaysredownload>true</alwaysredownload>
+        <installerwinver>winxp</installerwinver>
+        <installerdlloverrides>fusion=b</installerdlloverrides>
+        <postinstallreboot>true</postinstallreboot>
+        <preinstallregistry>
+          <key>HKEY_CURRENT_USER\Software\Wine\DllOverrides</key>
+          <value>
+            <name>mscoree</name>
+            <data>native</data>
+          </value>
+        </preinstallregistry>
+      </installprofile>
+      <installprofile appid="com.codeweavers.c4.206">
+        <comment>This ensures that, if steam is installed, this profile installs before it.</comment>
+        <predependency>com.codeweavers.c4.5917</predependency>
+      </installprofile>
+    </app>
+    <app appid="com.codeweavers.c4.1578" timestamp="2013-08-09T09:49:26-05:00">
+      <cxversion product="cxgames">10.0</cxversion>
+      <cxversion product="cxoffice">10.0</cxversion>
+      <name>Microsoft .NET Framework 2.0</name>
+      <name lang="en">Microsoft .NET Framework 2.0</name>
+      <name lang="de">Microsoft .NET Framework 2.0</name>
+      <name lang="fr">Microsoft .NET Framework 2.0</name>
+      <name lang="it">Microsoft .NET Framework 2.0</name>
+      <name lang="ja">Microsoft .NET Framework 2.0</name>
+      <name lang="nl">Microsoft .NET Framework 2.0</name>
+      <name lang="pl">Microsoft .NET Framework 2.0</name>
+      <name lang="pt">Microsoft .NET Framework 2.0</name>
+      <name lang="pt-br">Microsoft .NET Framework 2.0</name>
+      <name lang="ru">Microsoft .NET Framework 2.0</name>
+      <name lang="sk">Microsoft .NET Framework 2.0</name>
+      <name lang="zh-cn">Microsoft .NET Framework 2.0</name>
+      <contributor userid="561323">Gavin Jacobs</contributor>
+      <appprofile>
+        <description>The Microsoft .NET Framework version 2.0 redistributable package installs the .NET Framework runtime and associated files required to run applications developed to target the .NET Framework v2.0.</description>
+        <description lang="en">The Microsoft .NET Framework version 2.0 redistributable package installs the .NET Framework runtime and associated files required to run applications developed to target the .NET Framework v2.0.</description>
+        <description lang="fr">Le paquet redistribuable Microsoft .NET Framework version 2.0 installe les composants d'exécution .NET requis pour les applications basées sur .NET Framework v2.0.</description>
+        <description lang="ja">Microsoft .NET Framework version 2.0 再頒布可能パッケージは、.NET Framework Version 2.0 を対象に開発されたアプリケーションを実行するのに必要な.NET Framework ランタイムと関連ファイルをインストールします。</description>
+        <description lang="nl">Het Microsoft .NET Framework 2.0 pakket installeert de runtime voor het .NET Framework en bijbehorende bestanden die nodig zijn om programma's die ontwikkeld zijn voor .NET Framework v2.0 te laten draaien.</description>
+        <description lang="pt-br">O Microsoft .NET Framework versão 2.0 redistributable instala o runtime .NET Framework  e arquivos necessários para executar aplicativos desenvolvidos para o .NET Framework 2.0.</description>
+        <description lang="sk">Microsoft .NET Framework version 2.0 distribučný balík inštaluje dôležité súbory, ktoré sú potrebné pre beh aplikácií napísaných pre platformu .NET 2.0.</description>
+        <description lang="zh-cn">Microsoft .NET Framework 2.0 可重发布版将安装 .NET Framwork 运行组件，以及运行基于 .NET Framework 2.0 版本程序所需要的文件。</description>
+        <medal rating="3" platform="Linux" version="9.0.0" num="1" last="2010-03-24T16:47:41-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.0.0" num="0" last="2010-03-02T10:48:27-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="9.0.1" num="2" last="2012-03-15T08:40:39-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.0.1" num="0" last="2010-04-23T07:56:52-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="9.1.0" num="1" last="2010-08-05T11:14:03-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.1.0" num="0" last="2010-07-28T09:25:30-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="9.2.0" num="1" last="2011-01-25T11:07:54-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.2.0" num="0" last="2010-10-19T13:19:22-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.0.0" num="0" last="2011-01-31T14:28:34-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.0.0" num="1" last="2011-12-22T17:48:15-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.0.1" num="1" last="2011-12-22T17:48:00-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.0.3" num="1" last="2012-04-30T05:26:52-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.0.3" num="1" last="2011-12-22T17:47:49-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.1.0" num="1" last="2011-10-23T07:10:01-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.1.0" num="1" last="2011-12-22T17:47:37-06:00">bronze</medal>
+        <medal rating="4" platform="Linux" version="10.1.1" num="1" last="2011-10-01T10:40:18-05:00">unsilver</medal>
+        <medal rating="3" platform="Mac" version="10.1.1" num="1" last="2011-12-22T17:47:25-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.2.0" num="0" last="2011-11-28T14:30:31-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.2.0" num="2" last="2011-12-22T17:47:14-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.0" num="0" last="2012-03-06T08:42:20-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.0" num="0" last="2012-03-06T08:42:04-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.1" num="0" last="2012-03-20T15:09:28-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.2" num="0" last="2012-03-21T09:03:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.2" num="0" last="2012-03-21T09:03:46-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.3" num="1" last="2012-05-13T07:17:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.3" num="0" last="2012-04-09T16:46:59-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.1.0" num="0" last="2012-05-22T10:49:26-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.1.0" num="0" last="2012-05-22T10:49:19-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.0" num="1" last="2012-06-25T15:29:09-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.0" num="0" last="2012-06-25T14:17:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.1" num="0" last="2012-08-27T10:31:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.1" num="0" last="2012-08-27T10:31:51-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.2" num="1" last="2012-10-12T02:53:12-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.3.0" num="0" last="2012-11-05T14:10:48-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.3.0" num="0" last="2012-11-05T14:09:16-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.0.0" num="2" last="2013-01-18T10:10:34-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.0.0" num="2" last="2012-12-29T03:09:26-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.0" num="1" last="2013-02-14T13:11:47-06:00">bronze</medal>
+        <medal rating="4" platform="Mac" version="12.1.0" num="1" last="2013-01-19T22:22:20-06:00">silver</medal>
+        <medal rating="4" platform="Mac" version="12.1.1" num="1" last="2013-02-19T21:17:26-06:00">silver</medal>
+        <medal rating="3" platform="Linux" version="12.1.2" num="0" last="2013-03-01T09:53:49-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.2" num="0" last="2013-03-01T09:53:43-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.0" num="0" last="2013-05-01T14:09:27-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.0" num="0" last="2013-05-01T14:09:20-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.1" num="0" last="2013-05-15T11:11:56-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.1" num="0" last="2013-05-15T11:11:49-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.2" num="0" last="2013-07-22T11:13:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.2" num="0" last="2013-07-22T11:13:16-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.0" num="0" last="2013-06-19T10:20:04-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.0" num="0" last="2013-06-19T10:19:55-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.1" num="0" last="2013-10-16T14:37:04-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.1" num="0" last="2013-10-16T14:36:57-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.0" num="0" last="2013-11-01T11:35:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.0" num="1" last="2013-12-21T10:31:12-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.1" num="0" last="2013-12-04T13:47:43-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.1" num="0" last="2013-12-04T13:47:31-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.0" num="0" last="2014-02-04T15:03:10-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.0" num="0" last="2014-02-04T15:03:03-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.2" num="0" last="2014-03-19T11:29:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.2" num="0" last="2014-03-19T11:29:22-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.3" num="0" last="2014-04-28T09:49:19-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.3" num="1" last="2014-07-03T16:11:27-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.2.0" num="0" last="2014-07-10T09:49:10-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.2.0" num="0" last="2014-07-10T09:49:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.0" num="0" last="2014-09-12T14:22:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.0" num="0" last="2014-09-12T14:22:13-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.1" num="0" last="2014-10-30T08:57:24-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.1" num="0" last="2014-10-30T08:57:18-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.3" num="0" last="2014-11-17T10:36:28-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.3" num="0" last="2014-11-17T10:36:20-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.0" num="0" last="2015-03-19T13:19:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.0" num="0" last="2015-03-19T13:19:39-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.1" num="0" last="2015-04-21T11:08:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.1" num="0" last="2015-04-21T11:08:45-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.3" num="0" last="2015-05-18T13:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.3" num="0" last="2015-05-18T13:13:08-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.4" num="0" last="2015-06-25T10:48:48-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.4" num="0" last="2015-06-25T10:48:37-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.6" num="1" last="2015-09-03T09:38:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.6" num="0" last="2015-09-02T15:27:40-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.8" num="0" last="2015-09-29T13:57:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.8" num="0" last="2015-09-29T13:57:10-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.10" num="0" last="2015-10-08T13:40:38-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.10" num="0" last="2015-10-08T13:40:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.11" num="0" last="2015-10-29T10:26:21-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.11" num="0" last="2015-10-29T10:26:03-05:00">bronze</medal>
+        <medal rating="4" platform="Linux" version="15.0.0" num="1" last="2015-12-15T16:03:53-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="15.0.0" num="1" last="2015-12-15T16:03:48-06:00">unsilver</medal>
+        <medal rating="4" platform="Linux" version="15.0.1" num="1" last="2016-02-15T17:52:17-06:00">unsilver</medal>
+        <medal rating="1" platform="Linux" version="17.0.0" num="1" last="2017-08-31T19:08:48-05:00">knownnottowork</medal>
+        <category>Non-Applications/Components</category>
+        <flag>component</flag>
+        <installeddisplaypattern>Microsoft .NET Framework 2.*</installeddisplaypattern>
+        <bottletemplate>winxp</bottletemplate>
+        <bottletemplate>win2000</bottletemplate>
+        <bottletemplate>winvista</bottletemplate>
+        <downloadurl>http://crossover.codeweavers.com/redirect/dotnet20</downloadurl>
+        <downloadglob>dotnetfx.exe</downloadglob>
+      </appprofile>
+      <installprofile>
+        <installerglob>dotnetfx.exe</installerglob>
+        <installerwinver>win2000</installerwinver>
+        <installerdlloverrides>mscoree=n</installerdlloverrides>
+        <preinstallregistry>
+          <key>HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework</key>
+          <value>
+            <name>InstallRoot</name>
+            <data>C:\windows\Microsoft.NET\Framework</data>
+          </value>
+        </preinstallregistry>
+        <preinstallregistry>
+          <key>HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework\policy\v2.0</key>
+          <value>
+            <name>50727</name>
+            <data>50727-50727</data>
+          </value>
+        </preinstallregistry>
+        <skipmenu>true</skipmenu>
+        <skipassoc>true</skipassoc>
+      </installprofile>
+    </app>
+    <app appid="com.codeweavers.c4.1578" timestamp="2013-08-09T09:49:51-05:00">
+      <cxversion product="cxoffice">12.5</cxversion>
+      <name>Microsoft .NET Framework 2.0</name>
+      <name lang="en">Microsoft .NET Framework 2.0</name>
+      <name lang="de">Microsoft .NET Framework 2.0</name>
+      <name lang="fr">Microsoft .NET Framework 2.0</name>
+      <name lang="it">Microsoft .NET Framework 2.0</name>
+      <name lang="ja">Microsoft .NET Framework 2.0</name>
+      <name lang="nl">Microsoft .NET Framework 2.0</name>
+      <name lang="pl">Microsoft .NET Framework 2.0</name>
+      <name lang="pt">Microsoft .NET Framework 2.0</name>
+      <name lang="pt-br">Microsoft .NET Framework 2.0</name>
+      <name lang="ru">Microsoft .NET Framework 2.0</name>
+      <name lang="sk">Microsoft .NET Framework 2.0</name>
+      <name lang="zh-cn">Microsoft .NET Framework 2.0</name>
+      <contributor userid="561323">Gavin Jacobs</contributor>
+      <appprofile>
+        <description>The Microsoft .NET Framework version 2.0 redistributable package installs the .NET Framework runtime and associated files required to run applications developed to target the .NET Framework v2.0.</description>
+        <description lang="en">The Microsoft .NET Framework version 2.0 redistributable package installs the .NET Framework runtime and associated files required to run applications developed to target the .NET Framework v2.0.</description>
+        <description lang="fr">Le paquet redistribuable Microsoft .NET Framework version 2.0 installe les composants d'exécution .NET requis pour les applications basées sur .NET Framework v2.0.</description>
+        <description lang="ja">Microsoft .NET Framework version 2.0 再頒布可能パッケージは、.NET Framework Version 2.0 を対象に開発されたアプリケーションを実行するのに必要な.NET Framework ランタイムと関連ファイルをインストールします。</description>
+        <description lang="nl">Het Microsoft .NET Framework 2.0 pakket installeert de runtime voor het .NET Framework en bijbehorende bestanden die nodig zijn om programma's die ontwikkeld zijn voor .NET Framework v2.0 te laten draaien.</description>
+        <description lang="pt-br">O Microsoft .NET Framework versão 2.0 redistributable instala o runtime .NET Framework  e arquivos necessários para executar aplicativos desenvolvidos para o .NET Framework 2.0.</description>
+        <description lang="sk">Microsoft .NET Framework version 2.0 distribučný balík inštaluje dôležité súbory, ktoré sú potrebné pre beh aplikácií napísaných pre platformu .NET 2.0.</description>
+        <description lang="zh-cn">Microsoft .NET Framework 2.0 可重发布版将安装 .NET Framwork 运行组件，以及运行基于 .NET Framework 2.0 版本程序所需要的文件。</description>
+        <medal rating="3" platform="Linux" version="9.0.0" num="1" last="2010-03-24T16:47:41-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.0.0" num="0" last="2010-03-02T10:48:27-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="9.0.1" num="2" last="2012-03-15T08:40:39-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.0.1" num="0" last="2010-04-23T07:56:52-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="9.1.0" num="1" last="2010-08-05T11:14:03-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.1.0" num="0" last="2010-07-28T09:25:30-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="9.2.0" num="1" last="2011-01-25T11:07:54-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.2.0" num="0" last="2010-10-19T13:19:22-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.0.0" num="0" last="2011-01-31T14:28:34-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.0.0" num="1" last="2011-12-22T17:48:15-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.0.1" num="1" last="2011-12-22T17:48:00-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.0.3" num="1" last="2012-04-30T05:26:52-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.0.3" num="1" last="2011-12-22T17:47:49-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.1.0" num="1" last="2011-10-23T07:10:01-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.1.0" num="1" last="2011-12-22T17:47:37-06:00">bronze</medal>
+        <medal rating="4" platform="Linux" version="10.1.1" num="1" last="2011-10-01T10:40:18-05:00">unsilver</medal>
+        <medal rating="3" platform="Mac" version="10.1.1" num="1" last="2011-12-22T17:47:25-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.2.0" num="0" last="2011-11-28T14:30:31-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.2.0" num="2" last="2011-12-22T17:47:14-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.0" num="0" last="2012-03-06T08:42:20-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.0" num="0" last="2012-03-06T08:42:04-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.1" num="0" last="2012-03-20T15:09:28-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.2" num="0" last="2012-03-21T09:03:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.2" num="0" last="2012-03-21T09:03:46-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.3" num="1" last="2012-05-13T07:17:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.3" num="0" last="2012-04-09T16:46:59-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.1.0" num="0" last="2012-05-22T10:49:26-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.1.0" num="0" last="2012-05-22T10:49:19-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.0" num="1" last="2012-06-25T15:29:09-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.0" num="0" last="2012-06-25T14:17:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.1" num="0" last="2012-08-27T10:31:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.1" num="0" last="2012-08-27T10:31:51-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.2" num="1" last="2012-10-12T02:53:12-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.3.0" num="0" last="2012-11-05T14:10:48-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.3.0" num="0" last="2012-11-05T14:09:16-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.0.0" num="2" last="2013-01-18T10:10:34-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.0.0" num="2" last="2012-12-29T03:09:26-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.0" num="1" last="2013-02-14T13:11:47-06:00">bronze</medal>
+        <medal rating="4" platform="Mac" version="12.1.0" num="1" last="2013-01-19T22:22:20-06:00">silver</medal>
+        <medal rating="4" platform="Mac" version="12.1.1" num="1" last="2013-02-19T21:17:26-06:00">silver</medal>
+        <medal rating="3" platform="Linux" version="12.1.2" num="0" last="2013-03-01T09:53:49-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.2" num="0" last="2013-03-01T09:53:43-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.0" num="0" last="2013-05-01T14:09:27-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.0" num="0" last="2013-05-01T14:09:20-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.1" num="0" last="2013-05-15T11:11:56-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.1" num="0" last="2013-05-15T11:11:49-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.2" num="0" last="2013-07-22T11:13:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.2" num="0" last="2013-07-22T11:13:16-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.0" num="0" last="2013-06-19T10:20:04-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.0" num="0" last="2013-06-19T10:19:55-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.1" num="0" last="2013-10-16T14:37:04-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.1" num="0" last="2013-10-16T14:36:57-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.0" num="0" last="2013-11-01T11:35:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.0" num="1" last="2013-12-21T10:31:12-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.1" num="0" last="2013-12-04T13:47:43-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.1" num="0" last="2013-12-04T13:47:31-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.0" num="0" last="2014-02-04T15:03:10-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.0" num="0" last="2014-02-04T15:03:03-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.2" num="0" last="2014-03-19T11:29:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.2" num="0" last="2014-03-19T11:29:22-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.3" num="0" last="2014-04-28T09:49:19-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.3" num="1" last="2014-07-03T16:11:27-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.2.0" num="0" last="2014-07-10T09:49:10-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.2.0" num="0" last="2014-07-10T09:49:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.0" num="0" last="2014-09-12T14:22:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.0" num="0" last="2014-09-12T14:22:13-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.1" num="0" last="2014-10-30T08:57:24-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.1" num="0" last="2014-10-30T08:57:18-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.3" num="0" last="2014-11-17T10:36:28-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.3" num="0" last="2014-11-17T10:36:20-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.0" num="0" last="2015-03-19T13:19:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.0" num="0" last="2015-03-19T13:19:39-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.1" num="0" last="2015-04-21T11:08:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.1" num="0" last="2015-04-21T11:08:45-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.3" num="0" last="2015-05-18T13:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.3" num="0" last="2015-05-18T13:13:08-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.4" num="0" last="2015-06-25T10:48:48-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.4" num="0" last="2015-06-25T10:48:37-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.6" num="1" last="2015-09-03T09:38:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.6" num="0" last="2015-09-02T15:27:40-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.8" num="0" last="2015-09-29T13:57:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.8" num="0" last="2015-09-29T13:57:10-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.10" num="0" last="2015-10-08T13:40:38-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.10" num="0" last="2015-10-08T13:40:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.11" num="0" last="2015-10-29T10:26:21-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.11" num="0" last="2015-10-29T10:26:03-05:00">bronze</medal>
+        <medal rating="4" platform="Linux" version="15.0.0" num="1" last="2015-12-15T16:03:53-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="15.0.0" num="1" last="2015-12-15T16:03:48-06:00">unsilver</medal>
+        <medal rating="4" platform="Linux" version="15.0.1" num="1" last="2016-02-15T17:52:17-06:00">unsilver</medal>
+        <medal rating="1" platform="Linux" version="17.0.0" num="1" last="2017-08-31T19:08:48-05:00">knownnottowork</medal>
+        <category>Non-Applications/Components</category>
+        <flag>component</flag>
+        <installeddisplaypattern>Microsoft .NET Framework 2.*</installeddisplaypattern>
+        <bottletemplate>winxp</bottletemplate>
+        <bottletemplate>win2000</bottletemplate>
+        <bottletemplate>winvista</bottletemplate>
+        <bottletemplate>win7</bottletemplate>
+        <downloadurl>http://crossover.codeweavers.com/redirect/dotnet20</downloadurl>
+        <downloadglob>dotnetfx.exe</downloadglob>
+      </appprofile>
+      <installprofile appid="com.codeweavers.c4.206">
+        <comment>This ensures that, if steam is installed, this profile installs before it.</comment>
+        <predependency>com.codeweavers.c4.1578</predependency>
+      </installprofile>
+      <installprofile>
+        <installerglob>dotnetfx.exe</installerglob>
+        <installerwinver>win2000</installerwinver>
+        <installerdlloverrides>mscoree=n</installerdlloverrides>
+        <preinstallregistry>
+          <key>HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework</key>
+          <value>
+            <name>InstallRoot</name>
+            <data>C:\windows\Microsoft.NET\Framework</data>
+          </value>
+        </preinstallregistry>
+        <preinstallregistry>
+          <key>HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework\policy\v2.0</key>
+          <value>
+            <name>50727</name>
+            <data>50727-50727</data>
+          </value>
+        </preinstallregistry>
+        <skipmenu>true</skipmenu>
+        <skipassoc>true</skipassoc>
+      </installprofile>
+    </app>
+    <app appid="com.codeweavers.c4.1578" timestamp="2016-03-17T10:56:37-05:00">
+      <cxversion product="cxoffice">15.0</cxversion>
+      <name>Microsoft .NET Framework 2.0</name>
+      <name lang="en">Microsoft .NET Framework 2.0</name>
+      <name lang="de">Microsoft .NET Framework 2.0</name>
+      <name lang="fr">Microsoft .NET Framework 2.0</name>
+      <name lang="it">Microsoft .NET Framework 2.0</name>
+      <name lang="ja">Microsoft .NET Framework 2.0</name>
+      <name lang="nl">Microsoft .NET Framework 2.0</name>
+      <name lang="pl">Microsoft .NET Framework 2.0</name>
+      <name lang="pt">Microsoft .NET Framework 2.0</name>
+      <name lang="pt-br">Microsoft .NET Framework 2.0</name>
+      <name lang="ru">Microsoft .NET Framework 2.0</name>
+      <name lang="sk">Microsoft .NET Framework 2.0</name>
+      <name lang="zh-cn">Microsoft .NET Framework 2.0</name>
+      <contributor userid="561323">Gavin Jacobs</contributor>
+      <appprofile>
+        <description>The Microsoft .NET Framework version 2.0 redistributable package installs the .NET Framework runtime and associated files required to run applications developed to target the .NET Framework v2.0.</description>
+        <description lang="en">The Microsoft .NET Framework version 2.0 redistributable package installs the .NET Framework runtime and associated files required to run applications developed to target the .NET Framework v2.0.</description>
+        <description lang="fr">Le paquet redistribuable Microsoft .NET Framework version 2.0 installe les composants d'exécution .NET requis pour les applications basées sur .NET Framework v2.0.</description>
+        <description lang="ja">Microsoft .NET Framework version 2.0 再頒布可能パッケージは、.NET Framework Version 2.0 を対象に開発されたアプリケーションを実行するのに必要な.NET Framework ランタイムと関連ファイルをインストールします。</description>
+        <description lang="nl">Het Microsoft .NET Framework 2.0 pakket installeert de runtime voor het .NET Framework en bijbehorende bestanden die nodig zijn om programma's die ontwikkeld zijn voor .NET Framework v2.0 te laten draaien.</description>
+        <description lang="pt-br">O Microsoft .NET Framework versão 2.0 redistributable instala o runtime .NET Framework  e arquivos necessários para executar aplicativos desenvolvidos para o .NET Framework 2.0.</description>
+        <description lang="sk">Microsoft .NET Framework version 2.0 distribučný balík inštaluje dôležité súbory, ktoré sú potrebné pre beh aplikácií napísaných pre platformu .NET 2.0.</description>
+        <description lang="zh-cn">Microsoft .NET Framework 2.0 可重发布版将安装 .NET Framwork 运行组件，以及运行基于 .NET Framework 2.0 版本程序所需要的文件。</description>
+        <medal rating="3" platform="Linux" version="9.0.0" num="1" last="2010-03-24T16:47:41-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.0.0" num="0" last="2010-03-02T10:48:27-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="9.0.1" num="2" last="2012-03-15T08:40:39-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.0.1" num="0" last="2010-04-23T07:56:52-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="9.1.0" num="1" last="2010-08-05T11:14:03-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.1.0" num="0" last="2010-07-28T09:25:30-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="9.2.0" num="1" last="2011-01-25T11:07:54-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.2.0" num="0" last="2010-10-19T13:19:22-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.0.0" num="0" last="2011-01-31T14:28:34-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.0.0" num="1" last="2011-12-22T17:48:15-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.0.1" num="1" last="2011-12-22T17:48:00-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.0.3" num="1" last="2012-04-30T05:26:52-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.0.3" num="1" last="2011-12-22T17:47:49-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.1.0" num="1" last="2011-10-23T07:10:01-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.1.0" num="1" last="2011-12-22T17:47:37-06:00">bronze</medal>
+        <medal rating="4" platform="Linux" version="10.1.1" num="1" last="2011-10-01T10:40:18-05:00">unsilver</medal>
+        <medal rating="3" platform="Mac" version="10.1.1" num="1" last="2011-12-22T17:47:25-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.2.0" num="0" last="2011-11-28T14:30:31-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.2.0" num="2" last="2011-12-22T17:47:14-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.0" num="0" last="2012-03-06T08:42:20-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.0" num="0" last="2012-03-06T08:42:04-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.1" num="0" last="2012-03-20T15:09:28-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.2" num="0" last="2012-03-21T09:03:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.2" num="0" last="2012-03-21T09:03:46-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.3" num="1" last="2012-05-13T07:17:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.3" num="0" last="2012-04-09T16:46:59-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.1.0" num="0" last="2012-05-22T10:49:26-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.1.0" num="0" last="2012-05-22T10:49:19-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.0" num="1" last="2012-06-25T15:29:09-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.0" num="0" last="2012-06-25T14:17:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.1" num="0" last="2012-08-27T10:31:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.1" num="0" last="2012-08-27T10:31:51-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.2" num="1" last="2012-10-12T02:53:12-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.3.0" num="0" last="2012-11-05T14:10:48-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.3.0" num="0" last="2012-11-05T14:09:16-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.0.0" num="2" last="2013-01-18T10:10:34-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.0.0" num="2" last="2012-12-29T03:09:26-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.0" num="1" last="2013-02-14T13:11:47-06:00">bronze</medal>
+        <medal rating="4" platform="Mac" version="12.1.0" num="1" last="2013-01-19T22:22:20-06:00">silver</medal>
+        <medal rating="4" platform="Mac" version="12.1.1" num="1" last="2013-02-19T21:17:26-06:00">silver</medal>
+        <medal rating="3" platform="Linux" version="12.1.2" num="0" last="2013-03-01T09:53:49-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.2" num="0" last="2013-03-01T09:53:43-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.0" num="0" last="2013-05-01T14:09:27-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.0" num="0" last="2013-05-01T14:09:20-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.1" num="0" last="2013-05-15T11:11:56-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.1" num="0" last="2013-05-15T11:11:49-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.2" num="0" last="2013-07-22T11:13:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.2" num="0" last="2013-07-22T11:13:16-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.0" num="0" last="2013-06-19T10:20:04-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.0" num="0" last="2013-06-19T10:19:55-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.1" num="0" last="2013-10-16T14:37:04-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.1" num="0" last="2013-10-16T14:36:57-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.0" num="0" last="2013-11-01T11:35:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.0" num="1" last="2013-12-21T10:31:12-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.1" num="0" last="2013-12-04T13:47:43-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.1" num="0" last="2013-12-04T13:47:31-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.0" num="0" last="2014-02-04T15:03:10-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.0" num="0" last="2014-02-04T15:03:03-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.2" num="0" last="2014-03-19T11:29:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.2" num="0" last="2014-03-19T11:29:22-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.3" num="0" last="2014-04-28T09:49:19-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.3" num="1" last="2014-07-03T16:11:27-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.2.0" num="0" last="2014-07-10T09:49:10-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.2.0" num="0" last="2014-07-10T09:49:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.0" num="0" last="2014-09-12T14:22:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.0" num="0" last="2014-09-12T14:22:13-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.1" num="0" last="2014-10-30T08:57:24-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.1" num="0" last="2014-10-30T08:57:18-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.3" num="0" last="2014-11-17T10:36:28-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.3" num="0" last="2014-11-17T10:36:20-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.0" num="0" last="2015-03-19T13:19:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.0" num="0" last="2015-03-19T13:19:39-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.1" num="0" last="2015-04-21T11:08:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.1" num="0" last="2015-04-21T11:08:45-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.3" num="0" last="2015-05-18T13:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.3" num="0" last="2015-05-18T13:13:08-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.4" num="0" last="2015-06-25T10:48:48-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.4" num="0" last="2015-06-25T10:48:37-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.6" num="1" last="2015-09-03T09:38:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.6" num="0" last="2015-09-02T15:27:40-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.8" num="0" last="2015-09-29T13:57:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.8" num="0" last="2015-09-29T13:57:10-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.10" num="0" last="2015-10-08T13:40:38-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.10" num="0" last="2015-10-08T13:40:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.11" num="0" last="2015-10-29T10:26:21-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.11" num="0" last="2015-10-29T10:26:03-05:00">bronze</medal>
+        <medal rating="4" platform="Linux" version="15.0.0" num="1" last="2015-12-15T16:03:53-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="15.0.0" num="1" last="2015-12-15T16:03:48-06:00">unsilver</medal>
+        <medal rating="4" platform="Linux" version="15.0.1" num="1" last="2016-02-15T17:52:17-06:00">unsilver</medal>
+        <medal rating="1" platform="Linux" version="17.0.0" num="1" last="2017-08-31T19:08:48-05:00">knownnottowork</medal>
+        <category>Non-Applications/Components</category>
+        <flag>component</flag>
+        <installeddisplaypattern>Microsoft .NET Framework 2.*</installeddisplaypattern>
+        <bottletemplate>winxp</bottletemplate>
+        <bottletemplate>win2000</bottletemplate>
+        <bottletemplate>winvista</bottletemplate>
+        <bottletemplate>win7</bottletemplate>
+        <downloadurl>http://crossover.codeweavers.com/redirect/dotnet20</downloadurl>
+        <downloadglob>dotnetfx.exe</downloadglob>
+      </appprofile>
+      <installprofile>
+        <comment>20160317 - turned on always re-download the installer.</comment>
+        <alwaysredownload>true</alwaysredownload>
+        <installerglob>dotnetfx.exe</installerglob>
+        <installerwinver>win2000</installerwinver>
+        <installerdlloverrides>mscoree=n</installerdlloverrides>
+        <preinstallregistry>
+          <key>HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework</key>
+          <value>
+            <name>InstallRoot</name>
+            <data>C:\windows\Microsoft.NET\Framework</data>
+          </value>
+        </preinstallregistry>
+        <preinstallregistry>
+          <key>HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework\policy\v2.0</key>
+          <value>
+            <name>50727</name>
+            <data>50727-50727</data>
+          </value>
+        </preinstallregistry>
+        <skipmenu>true</skipmenu>
+        <skipassoc>true</skipassoc>
+      </installprofile>
+      <installprofile appid="com.codeweavers.c4.206">
+        <comment>This ensures that, if steam is installed, this profile installs before it.</comment>
+        <predependency>com.codeweavers.c4.1578</predependency>
+      </installprofile>
+    </app>
+    <app appid="com.codeweavers.c4.1578" timestamp="2017-09-09T11:46:45-05:00">
+      <cxversion product="cxoffice">15.5</cxversion>
+      <name>Microsoft .NET Framework 2.0</name>
+      <name lang="en">Microsoft .NET Framework 2.0</name>
+      <name lang="de">Microsoft .NET Framework 2.0</name>
+      <name lang="fr">Microsoft .NET Framework 2.0</name>
+      <name lang="it">Microsoft .NET Framework 2.0</name>
+      <name lang="ja">Microsoft .NET Framework 2.0</name>
+      <name lang="nl">Microsoft .NET Framework 2.0</name>
+      <name lang="pl">Microsoft .NET Framework 2.0</name>
+      <name lang="pt">Microsoft .NET Framework 2.0</name>
+      <name lang="pt-br">Microsoft .NET Framework 2.0</name>
+      <name lang="ru">Microsoft .NET Framework 2.0</name>
+      <name lang="sk">Microsoft .NET Framework 2.0</name>
+      <name lang="zh-cn">Microsoft .NET Framework 2.0</name>
+      <contributor userid="561323">Gavin Jacobs</contributor>
+      <appprofile>
+        <description>The Microsoft .NET Framework version 2.0 redistributable package installs the .NET Framework runtime and associated files required to run applications developed to target the .NET Framework v2.0.</description>
+        <description lang="en">The Microsoft .NET Framework version 2.0 redistributable package installs the .NET Framework runtime and associated files required to run applications developed to target the .NET Framework v2.0.</description>
+        <description lang="fr">Le paquet redistribuable Microsoft .NET Framework version 2.0 installe les composants d'exécution .NET requis pour les applications basées sur .NET Framework v2.0.</description>
+        <description lang="ja">Microsoft .NET Framework version 2.0 再頒布可能パッケージは、.NET Framework Version 2.0 を対象に開発されたアプリケーションを実行するのに必要な.NET Framework ランタイムと関連ファイルをインストールします。</description>
+        <description lang="nl">Het Microsoft .NET Framework 2.0 pakket installeert de runtime voor het .NET Framework en bijbehorende bestanden die nodig zijn om programma's die ontwikkeld zijn voor .NET Framework v2.0 te laten draaien.</description>
+        <description lang="pt-br">O Microsoft .NET Framework versão 2.0 redistributable instala o runtime .NET Framework  e arquivos necessários para executar aplicativos desenvolvidos para o .NET Framework 2.0.</description>
+        <description lang="sk">Microsoft .NET Framework version 2.0 distribučný balík inštaluje dôležité súbory, ktoré sú potrebné pre beh aplikácií napísaných pre platformu .NET 2.0.</description>
+        <description lang="zh-cn">Microsoft .NET Framework 2.0 可重发布版将安装 .NET Framwork 运行组件，以及运行基于 .NET Framework 2.0 版本程序所需要的文件。</description>
+        <comment>20160811 - New profile for 15.5 with 64-bit support. Removed downloadglob to prevent the installer from the wrong architecture from being used.</comment>
+        <medal rating="3" platform="Linux" version="9.0.0" num="1" last="2010-03-24T16:47:41-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.0.0" num="0" last="2010-03-02T10:48:27-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="9.0.1" num="2" last="2012-03-15T08:40:39-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.0.1" num="0" last="2010-04-23T07:56:52-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="9.1.0" num="1" last="2010-08-05T11:14:03-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.1.0" num="0" last="2010-07-28T09:25:30-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="9.2.0" num="1" last="2011-01-25T11:07:54-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="9.2.0" num="0" last="2010-10-19T13:19:22-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.0.0" num="0" last="2011-01-31T14:28:34-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.0.0" num="1" last="2011-12-22T17:48:15-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.0.1" num="1" last="2011-12-22T17:48:00-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.0.3" num="1" last="2012-04-30T05:26:52-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.0.3" num="1" last="2011-12-22T17:47:49-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.1.0" num="1" last="2011-10-23T07:10:01-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.1.0" num="1" last="2011-12-22T17:47:37-06:00">bronze</medal>
+        <medal rating="4" platform="Linux" version="10.1.1" num="1" last="2011-10-01T10:40:18-05:00">unsilver</medal>
+        <medal rating="3" platform="Mac" version="10.1.1" num="1" last="2011-12-22T17:47:25-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="10.2.0" num="0" last="2011-11-28T14:30:31-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="10.2.0" num="2" last="2011-12-22T17:47:14-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.0" num="0" last="2012-03-06T08:42:20-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.0" num="0" last="2012-03-06T08:42:04-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.1" num="0" last="2012-03-20T15:09:28-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.2" num="0" last="2012-03-21T09:03:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.2" num="0" last="2012-03-21T09:03:46-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.3" num="1" last="2012-05-13T07:17:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.3" num="0" last="2012-04-09T16:46:59-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.1.0" num="0" last="2012-05-22T10:49:26-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.1.0" num="0" last="2012-05-22T10:49:19-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.0" num="1" last="2012-06-25T15:29:09-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.0" num="0" last="2012-06-25T14:17:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.1" num="0" last="2012-08-27T10:31:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.1" num="0" last="2012-08-27T10:31:51-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.2" num="1" last="2012-10-12T02:53:12-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.3.0" num="0" last="2012-11-05T14:10:48-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.3.0" num="0" last="2012-11-05T14:09:16-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.0.0" num="2" last="2013-01-18T10:10:34-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.0.0" num="2" last="2012-12-29T03:09:26-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.0" num="1" last="2013-02-14T13:11:47-06:00">bronze</medal>
+        <medal rating="4" platform="Mac" version="12.1.0" num="1" last="2013-01-19T22:22:20-06:00">silver</medal>
+        <medal rating="4" platform="Mac" version="12.1.1" num="1" last="2013-02-19T21:17:26-06:00">silver</medal>
+        <medal rating="3" platform="Linux" version="12.1.2" num="0" last="2013-03-01T09:53:49-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.2" num="0" last="2013-03-01T09:53:43-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.0" num="0" last="2013-05-01T14:09:27-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.0" num="0" last="2013-05-01T14:09:20-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.1" num="0" last="2013-05-15T11:11:56-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.1" num="0" last="2013-05-15T11:11:49-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.2" num="0" last="2013-07-22T11:13:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.2" num="0" last="2013-07-22T11:13:16-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.0" num="0" last="2013-06-19T10:20:04-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.0" num="0" last="2013-06-19T10:19:55-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.1" num="0" last="2013-10-16T14:37:04-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.1" num="0" last="2013-10-16T14:36:57-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.0" num="0" last="2013-11-01T11:35:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.0" num="1" last="2013-12-21T10:31:12-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.1" num="0" last="2013-12-04T13:47:43-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.1" num="0" last="2013-12-04T13:47:31-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.0" num="0" last="2014-02-04T15:03:10-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.0" num="0" last="2014-02-04T15:03:03-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.2" num="0" last="2014-03-19T11:29:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.2" num="0" last="2014-03-19T11:29:22-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.3" num="0" last="2014-04-28T09:49:19-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.3" num="1" last="2014-07-03T16:11:27-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.2.0" num="0" last="2014-07-10T09:49:10-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.2.0" num="0" last="2014-07-10T09:49:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.0" num="0" last="2014-09-12T14:22:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.0" num="0" last="2014-09-12T14:22:13-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.1" num="0" last="2014-10-30T08:57:24-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.1" num="0" last="2014-10-30T08:57:18-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.3" num="0" last="2014-11-17T10:36:28-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.3" num="0" last="2014-11-17T10:36:20-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.0" num="0" last="2015-03-19T13:19:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.0" num="0" last="2015-03-19T13:19:39-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.1" num="0" last="2015-04-21T11:08:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.1" num="0" last="2015-04-21T11:08:45-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.3" num="0" last="2015-05-18T13:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.3" num="0" last="2015-05-18T13:13:08-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.4" num="0" last="2015-06-25T10:48:48-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.4" num="0" last="2015-06-25T10:48:37-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.6" num="1" last="2015-09-03T09:38:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.6" num="0" last="2015-09-02T15:27:40-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.8" num="0" last="2015-09-29T13:57:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.8" num="0" last="2015-09-29T13:57:10-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.10" num="0" last="2015-10-08T13:40:38-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.10" num="0" last="2015-10-08T13:40:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.11" num="0" last="2015-10-29T10:26:21-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.11" num="0" last="2015-10-29T10:26:03-05:00">bronze</medal>
+        <medal rating="4" platform="Linux" version="15.0.0" num="1" last="2015-12-15T16:03:53-06:00">unsilver</medal>
+        <medal rating="4" platform="Mac" version="15.0.0" num="1" last="2015-12-15T16:03:48-06:00">unsilver</medal>
+        <medal rating="4" platform="Linux" version="15.0.1" num="1" last="2016-02-15T17:52:17-06:00">unsilver</medal>
+        <medal rating="1" platform="Linux" version="17.0.0" num="1" last="2017-08-31T19:08:48-05:00">knownnottowork</medal>
+        <category>Non-Applications/Components</category>
+        <flag>component</flag>
+        <installeddisplaypattern>Microsoft .NET Framework 2.*</installeddisplaypattern>
+        <bottletemplate>winxp</bottletemplate>
+        <bottletemplate>win2000</bottletemplate>
+        <bottletemplate>winvista</bottletemplate>
+        <bottletemplate>win7</bottletemplate>
+        <bottletemplate>win8</bottletemplate>
+        <bottletemplate>win10_64</bottletemplate>
+        <bottletemplate>winvista_64</bottletemplate>
+        <bottletemplate>win7_64</bottletemplate>
+        <bottletemplate>win8_64</bottletemplate>
+        <bottletemplate>win10_64</bottletemplate>
+        <downloadurl>http://crossover.codeweavers.com/redirect/dotnet20</downloadurl>
+        <downloadurl64>https://download.microsoft.com/download/a/3/f/a3f1bf98-18f3-4036-9b68-8e6de530ce0a/NetFx64.exe</downloadurl64>
+      </appprofile>
+      <installprofile>
+        <comment>20170613 - Added .NET 2 SP2 as a post-dependency.
+20160317 - turned on always re-download the installer.</comment>
+        <postdependency>com.codeweavers.c4.6945</postdependency>
+        <alwaysredownload>true</alwaysredownload>
+        <installerglob>dotnetfx.exe</installerglob>
+        <installerdlloverrides>mscoree=n</installerdlloverrides>
+        <preinstallregistry>
+          <key>HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework</key>
+          <value>
+            <name>InstallRoot</name>
+            <data>C:\windows\Microsoft.NET\Framework</data>
+          </value>
+        </preinstallregistry>
+        <preinstallregistry>
+          <key>HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework\policy\v2.0</key>
+          <value>
+            <name>50727</name>
+            <data>50727-50727</data>
+          </value>
+        </preinstallregistry>
+        <skipmenu>true</skipmenu>
+        <skipassoc>true</skipassoc>
+      </installprofile>
+      <installprofile appid="com.codeweavers.c4.206">
+        <comment>This ensures that, if steam is installed, this profile installs before it.</comment>
+        <predependency>com.codeweavers.c4.1578</predependency>
+      </installprofile>
+      <installprofile>
+        <useif>
+          <not>
+            <match name="bottletemplate">.*_64$</match>
+          </not>
+        </useif>
+        <comment>On 32-bit bottle templates, use win2000 for install.</comment>
+        <installerwinver>win2000</installerwinver>
+      </installprofile>
+      <installprofile>
+        <useif>
+          <match name="bottletemplate">.*_64$</match>
+        </useif>
+        <comment>On 64-bit bottle types, use winxp for install.</comment>
+        <installerwinver>winxp</installerwinver>
+      </installprofile>
+    </app>
+    <app appid="com.codeweavers.c4.6945" timestamp="2015-07-21T14:46:50-05:00">
+      <cxversion product="cxgames">11.0</cxversion>
+      <cxversion product="cxoffice">11.0</cxversion>
+      <name>Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="en">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="de">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="fr">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="ja">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="zh-cn">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <appprofile>
+        <description>Microsoft .NET Framework 2.0 Service Pack 2 provides cumulative roll-up updates for customer reported issues found after the release of Microsoft .NET Framework 2.0. In addition, this release provides security improvements, and prerequisite feature support for .NET Framework 3.0 Service Pack 1, and .NET Framework 3.5.&lt;br&gt;&lt;br&gt;</description>
+        <description lang="en">Microsoft .NET Framework 2.0 Service Pack 2 provides cumulative roll-up updates for customer reported issues found after the release of Microsoft .NET Framework 2.0. In addition, this release provides security improvements, and prerequisite feature support for .NET Framework 3.0 Service Pack 1, and .NET Framework 3.5.&lt;br&gt;&lt;br&gt;</description>
+        <description lang="ja">&lt;p&gt;Microsoft .NET Framework 2.0 Service Pack 2 は、Microsoft .NET Framework 2.0 のリリース後に発見され報告を受けた問題に対する累積的なロールアップ更新プログラムを提供します。このリリースによって、セキュリティの強化に加え、.NET Framework 3.0 Service Pack 1 および .NET Framework 3.5 のサポートに必要な機能も提供されます。&lt;/p&gt;</description>
+        <medal rating="1" platform="Linux" version="9.0.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.0.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.0.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.0.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.1.0" num="1" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.1.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.2.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.2.0" num="1" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.0" num="1" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.0.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.0.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.3" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.0.3" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.1.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.1.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.1.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.2.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.2.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="3" platform="Linux" version="11.0.0" num="1" last="2012-04-25T03:40:47-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.0" num="1" last="2012-04-25T03:40:47-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.1" num="0" last="2012-03-20T15:09:29-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.2" num="0" last="2012-03-21T09:03:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.2" num="0" last="2012-03-21T09:03:46-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.3" num="1" last="2012-05-13T07:18:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.3" num="0" last="2012-04-09T16:47:00-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.1.0" num="0" last="2012-05-22T10:49:26-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.1.0" num="0" last="2012-05-22T10:49:19-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.0" num="1" last="2012-06-25T15:29:27-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.0" num="0" last="2012-06-25T14:17:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.1" num="0" last="2012-08-27T10:32:00-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.1" num="0" last="2012-08-27T10:31:51-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.2" num="0" last="2012-09-21T09:20:51-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.3.0" num="0" last="2012-11-05T14:10:49-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.3.0" num="0" last="2012-11-05T14:09:17-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.0.0" num="1" last="2013-01-18T10:10:37-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.0.0" num="0" last="2012-11-27T15:30:27-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.0" num="0" last="2013-01-18T10:06:22-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.0" num="0" last="2013-01-18T09:57:10-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.1" num="0" last="2013-01-25T09:32:27-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.2" num="0" last="2013-03-01T09:53:50-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.2" num="0" last="2013-03-01T09:53:44-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.0" num="0" last="2013-05-01T14:09:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.0" num="0" last="2013-05-01T14:09:20-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.1" num="0" last="2013-05-15T11:11:57-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.1" num="0" last="2013-05-15T11:11:50-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.2" num="0" last="2013-07-22T11:13:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.2" num="0" last="2013-07-22T11:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.0" num="0" last="2013-06-19T10:20:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.0" num="0" last="2013-06-19T10:19:56-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.1" num="0" last="2013-10-16T14:37:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.1" num="0" last="2013-10-16T14:36:57-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.0" num="0" last="2013-11-01T11:35:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.0" num="0" last="2013-11-01T11:35:49-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.1" num="0" last="2013-12-04T13:47:45-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.1" num="0" last="2013-12-04T13:47:33-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.0" num="0" last="2014-02-04T15:03:11-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.0" num="0" last="2014-02-04T15:03:03-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.2" num="0" last="2014-03-19T11:29:29-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.2" num="0" last="2014-03-19T11:29:23-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.3" num="0" last="2014-04-28T09:49:20-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.3" num="0" last="2014-04-28T09:49:09-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.2.0" num="0" last="2014-07-10T09:49:11-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.2.0" num="0" last="2014-07-10T09:49:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.0" num="0" last="2014-09-12T14:22:23-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.0" num="0" last="2014-09-12T14:22:14-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.1" num="0" last="2014-10-30T08:57:25-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.1" num="0" last="2014-10-30T08:57:18-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.3" num="0" last="2014-11-17T10:36:29-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.3" num="0" last="2014-11-17T10:36:20-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.0" num="0" last="2015-03-19T13:19:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.0" num="0" last="2015-03-19T13:19:39-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.1" num="0" last="2015-04-21T11:08:55-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.1" num="0" last="2015-04-21T11:08:46-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.3" num="0" last="2015-05-18T13:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.3" num="0" last="2015-05-18T13:13:08-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.4" num="0" last="2015-06-25T10:48:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.4" num="0" last="2015-06-25T10:48:38-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.6" num="0" last="2015-09-02T15:27:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.6" num="0" last="2015-09-02T15:27:41-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.8" num="0" last="2015-09-29T13:57:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.8" num="0" last="2015-09-29T13:57:10-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.10" num="0" last="2015-10-08T13:40:39-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.10" num="0" last="2015-10-08T13:40:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.11" num="0" last="2015-10-29T10:26:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.11" num="0" last="2015-10-29T10:26:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="15.0.0" num="1" last="2015-12-15T16:04:32-06:00">unbronze</medal>
+        <medal rating="3" platform="Mac" version="15.0.0" num="1" last="2015-12-15T16:04:28-06:00">unbronze</medal>
+        <medal rating="2" platform="Linux" version="17.0.0" num="1" last="2017-08-04T09:32:33-05:00">knownnottowork</medal>
+        <category>Non-Applications/Components</category>
+        <flag>component</flag>
+        <installeddisplaypattern>Microsoft .NET Framework 2.0 Service Pack 2.*</installeddisplaypattern>
+        <bottletemplate>winxp</bottletemplate>
+        <bottletemplate>win2000</bottletemplate>
+        <bottletemplate>winvista</bottletemplate>
+        <downloadurl>http://download.microsoft.com/download/c/6/e/c6e88215-0178-4c6c-b5f3-158ff77b1f38/NetFx20SP2_x86.exe</downloadurl>
+        <downloadpageurl>http://www.microsoft.com/downloads/en/details.aspx?FamilyID=5B2C0358-915B-4EB5-9B1D-10E506DA9D0F</downloadpageurl>
+        <extrafor>com.codeweavers.c4.1578</extrafor>
+      </appprofile>
+      <installprofile>
+        <comment>20121003 - removed 9322 as a predependency, added 1578</comment>
+        <predependency>com.codeweavers.c4.1578</predependency>
+        <installerwinver>win2000</installerwinver>
+        <installerdlloverrides>ngen.exe,regsvcs.exe,mscorsvw.exe=b</installerdlloverrides>
+        <postinstallreboot>false</postinstallreboot>
+        <skipmenu>true</skipmenu>
+        <skipassoc>true</skipassoc>
+      </installprofile>
+    </app>
+    <app appid="com.codeweavers.c4.6945" timestamp="2015-07-21T14:46:50-05:00">
+      <cxversion product="cxoffice">12.5</cxversion>
+      <name>Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="en">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="de">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="fr">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="ja">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="zh-cn">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <appprofile>
+        <description>Microsoft .NET Framework 2.0 Service Pack 2 provides cumulative roll-up updates for customer reported issues found after the release of Microsoft .NET Framework 2.0. In addition, this release provides security improvements, and prerequisite feature support for .NET Framework 3.0 Service Pack 1, and .NET Framework 3.5.&lt;br&gt;&lt;br&gt;</description>
+        <description lang="en">Microsoft .NET Framework 2.0 Service Pack 2 provides cumulative roll-up updates for customer reported issues found after the release of Microsoft .NET Framework 2.0. In addition, this release provides security improvements, and prerequisite feature support for .NET Framework 3.0 Service Pack 1, and .NET Framework 3.5.&lt;br&gt;&lt;br&gt;</description>
+        <description lang="ja">&lt;p&gt;Microsoft .NET Framework 2.0 Service Pack 2 は、Microsoft .NET Framework 2.0 のリリース後に発見され報告を受けた問題に対する累積的なロールアップ更新プログラムを提供します。このリリースによって、セキュリティの強化に加え、.NET Framework 3.0 Service Pack 1 および .NET Framework 3.5 のサポートに必要な機能も提供されます。&lt;/p&gt;</description>
+        <medal rating="1" platform="Linux" version="9.0.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.0.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.0.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.0.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.1.0" num="1" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.1.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.2.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.2.0" num="1" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.0" num="1" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.0.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.0.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.3" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.0.3" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.1.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.1.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.1.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.2.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.2.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="3" platform="Linux" version="11.0.0" num="1" last="2012-04-25T03:40:47-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.0" num="1" last="2012-04-25T03:40:47-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.1" num="0" last="2012-03-20T15:09:29-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.2" num="0" last="2012-03-21T09:03:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.2" num="0" last="2012-03-21T09:03:46-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.3" num="1" last="2012-05-13T07:18:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.3" num="0" last="2012-04-09T16:47:00-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.1.0" num="0" last="2012-05-22T10:49:26-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.1.0" num="0" last="2012-05-22T10:49:19-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.0" num="1" last="2012-06-25T15:29:27-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.0" num="0" last="2012-06-25T14:17:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.1" num="0" last="2012-08-27T10:32:00-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.1" num="0" last="2012-08-27T10:31:51-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.2" num="0" last="2012-09-21T09:20:51-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.3.0" num="0" last="2012-11-05T14:10:49-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.3.0" num="0" last="2012-11-05T14:09:17-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.0.0" num="1" last="2013-01-18T10:10:37-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.0.0" num="0" last="2012-11-27T15:30:27-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.0" num="0" last="2013-01-18T10:06:22-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.0" num="0" last="2013-01-18T09:57:10-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.1" num="0" last="2013-01-25T09:32:27-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.2" num="0" last="2013-03-01T09:53:50-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.2" num="0" last="2013-03-01T09:53:44-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.0" num="0" last="2013-05-01T14:09:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.0" num="0" last="2013-05-01T14:09:20-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.1" num="0" last="2013-05-15T11:11:57-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.1" num="0" last="2013-05-15T11:11:50-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.2" num="0" last="2013-07-22T11:13:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.2" num="0" last="2013-07-22T11:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.0" num="0" last="2013-06-19T10:20:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.0" num="0" last="2013-06-19T10:19:56-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.1" num="0" last="2013-10-16T14:37:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.1" num="0" last="2013-10-16T14:36:57-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.0" num="0" last="2013-11-01T11:35:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.0" num="0" last="2013-11-01T11:35:49-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.1" num="0" last="2013-12-04T13:47:45-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.1" num="0" last="2013-12-04T13:47:33-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.0" num="0" last="2014-02-04T15:03:11-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.0" num="0" last="2014-02-04T15:03:03-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.2" num="0" last="2014-03-19T11:29:29-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.2" num="0" last="2014-03-19T11:29:23-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.3" num="0" last="2014-04-28T09:49:20-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.3" num="0" last="2014-04-28T09:49:09-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.2.0" num="0" last="2014-07-10T09:49:11-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.2.0" num="0" last="2014-07-10T09:49:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.0" num="0" last="2014-09-12T14:22:23-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.0" num="0" last="2014-09-12T14:22:14-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.1" num="0" last="2014-10-30T08:57:25-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.1" num="0" last="2014-10-30T08:57:18-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.3" num="0" last="2014-11-17T10:36:29-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.3" num="0" last="2014-11-17T10:36:20-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.0" num="0" last="2015-03-19T13:19:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.0" num="0" last="2015-03-19T13:19:39-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.1" num="0" last="2015-04-21T11:08:55-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.1" num="0" last="2015-04-21T11:08:46-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.3" num="0" last="2015-05-18T13:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.3" num="0" last="2015-05-18T13:13:08-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.4" num="0" last="2015-06-25T10:48:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.4" num="0" last="2015-06-25T10:48:38-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.6" num="0" last="2015-09-02T15:27:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.6" num="0" last="2015-09-02T15:27:41-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.8" num="0" last="2015-09-29T13:57:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.8" num="0" last="2015-09-29T13:57:10-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.10" num="0" last="2015-10-08T13:40:39-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.10" num="0" last="2015-10-08T13:40:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.11" num="0" last="2015-10-29T10:26:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.11" num="0" last="2015-10-29T10:26:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="15.0.0" num="1" last="2015-12-15T16:04:32-06:00">unbronze</medal>
+        <medal rating="3" platform="Mac" version="15.0.0" num="1" last="2015-12-15T16:04:28-06:00">unbronze</medal>
+        <medal rating="2" platform="Linux" version="17.0.0" num="1" last="2017-08-04T09:32:33-05:00">knownnottowork</medal>
+        <category>Non-Applications/Components</category>
+        <flag>component</flag>
+        <installeddisplaypattern>Microsoft .NET Framework 2.0 Service Pack 2.*</installeddisplaypattern>
+        <bottletemplate>winxp</bottletemplate>
+        <bottletemplate>win2000</bottletemplate>
+        <bottletemplate>winvista</bottletemplate>
+        <bottletemplate>win7</bottletemplate>
+        <downloadurl>http://download.microsoft.com/download/c/6/e/c6e88215-0178-4c6c-b5f3-158ff77b1f38/NetFx20SP2_x86.exe</downloadurl>
+        <downloadpageurl>http://www.microsoft.com/downloads/en/details.aspx?FamilyID=5B2C0358-915B-4EB5-9B1D-10E506DA9D0F</downloadpageurl>
+        <extrafor>com.codeweavers.c4.1578</extrafor>
+      </appprofile>
+      <installprofile>
+        <comment>20121003 - removed 9322 as a predependency, added 1578</comment>
+        <predependency>com.codeweavers.c4.1578</predependency>
+        <installerwinver>win2000</installerwinver>
+        <installerdlloverrides>ngen.exe,regsvcs.exe,mscorsvw.exe=b</installerdlloverrides>
+        <postinstallreboot>false</postinstallreboot>
+        <skipmenu>true</skipmenu>
+        <skipassoc>true</skipassoc>
+      </installprofile>
+    </app>
+    <app appid="com.codeweavers.c4.6945" timestamp="2016-03-17T10:55:18-05:00">
+      <cxversion product="cxoffice">15.0</cxversion>
+      <name>Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="en">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="de">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="fr">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="ja">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="zh-cn">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <appprofile>
+        <description>Microsoft .NET Framework 2.0 Service Pack 2 provides cumulative roll-up updates for customer reported issues found after the release of Microsoft .NET Framework 2.0. In addition, this release provides security improvements, and prerequisite feature support for .NET Framework 3.0 Service Pack 1, and .NET Framework 3.5.&lt;br&gt;&lt;br&gt;</description>
+        <description lang="en">Microsoft .NET Framework 2.0 Service Pack 2 provides cumulative roll-up updates for customer reported issues found after the release of Microsoft .NET Framework 2.0. In addition, this release provides security improvements, and prerequisite feature support for .NET Framework 3.0 Service Pack 1, and .NET Framework 3.5.&lt;br&gt;&lt;br&gt;</description>
+        <description lang="ja">&lt;p&gt;Microsoft .NET Framework 2.0 Service Pack 2 は、Microsoft .NET Framework 2.0 のリリース後に発見され報告を受けた問題に対する累積的なロールアップ更新プログラムを提供します。このリリースによって、セキュリティの強化に加え、.NET Framework 3.0 Service Pack 1 および .NET Framework 3.5 のサポートに必要な機能も提供されます。&lt;/p&gt;</description>
+        <medal rating="1" platform="Linux" version="9.0.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.0.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.0.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.0.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.1.0" num="1" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.1.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.2.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.2.0" num="1" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.0" num="1" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.0.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.0.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.3" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.0.3" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.1.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.1.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.1.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.2.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.2.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="3" platform="Linux" version="11.0.0" num="1" last="2012-04-25T03:40:47-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.0" num="1" last="2012-04-25T03:40:47-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.1" num="0" last="2012-03-20T15:09:29-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.2" num="0" last="2012-03-21T09:03:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.2" num="0" last="2012-03-21T09:03:46-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.3" num="1" last="2012-05-13T07:18:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.3" num="0" last="2012-04-09T16:47:00-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.1.0" num="0" last="2012-05-22T10:49:26-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.1.0" num="0" last="2012-05-22T10:49:19-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.0" num="1" last="2012-06-25T15:29:27-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.0" num="0" last="2012-06-25T14:17:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.1" num="0" last="2012-08-27T10:32:00-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.1" num="0" last="2012-08-27T10:31:51-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.2" num="0" last="2012-09-21T09:20:51-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.3.0" num="0" last="2012-11-05T14:10:49-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.3.0" num="0" last="2012-11-05T14:09:17-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.0.0" num="1" last="2013-01-18T10:10:37-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.0.0" num="0" last="2012-11-27T15:30:27-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.0" num="0" last="2013-01-18T10:06:22-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.0" num="0" last="2013-01-18T09:57:10-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.1" num="0" last="2013-01-25T09:32:27-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.2" num="0" last="2013-03-01T09:53:50-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.2" num="0" last="2013-03-01T09:53:44-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.0" num="0" last="2013-05-01T14:09:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.0" num="0" last="2013-05-01T14:09:20-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.1" num="0" last="2013-05-15T11:11:57-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.1" num="0" last="2013-05-15T11:11:50-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.2" num="0" last="2013-07-22T11:13:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.2" num="0" last="2013-07-22T11:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.0" num="0" last="2013-06-19T10:20:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.0" num="0" last="2013-06-19T10:19:56-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.1" num="0" last="2013-10-16T14:37:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.1" num="0" last="2013-10-16T14:36:57-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.0" num="0" last="2013-11-01T11:35:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.0" num="0" last="2013-11-01T11:35:49-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.1" num="0" last="2013-12-04T13:47:45-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.1" num="0" last="2013-12-04T13:47:33-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.0" num="0" last="2014-02-04T15:03:11-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.0" num="0" last="2014-02-04T15:03:03-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.2" num="0" last="2014-03-19T11:29:29-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.2" num="0" last="2014-03-19T11:29:23-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.3" num="0" last="2014-04-28T09:49:20-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.3" num="0" last="2014-04-28T09:49:09-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.2.0" num="0" last="2014-07-10T09:49:11-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.2.0" num="0" last="2014-07-10T09:49:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.0" num="0" last="2014-09-12T14:22:23-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.0" num="0" last="2014-09-12T14:22:14-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.1" num="0" last="2014-10-30T08:57:25-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.1" num="0" last="2014-10-30T08:57:18-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.3" num="0" last="2014-11-17T10:36:29-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.3" num="0" last="2014-11-17T10:36:20-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.0" num="0" last="2015-03-19T13:19:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.0" num="0" last="2015-03-19T13:19:39-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.1" num="0" last="2015-04-21T11:08:55-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.1" num="0" last="2015-04-21T11:08:46-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.3" num="0" last="2015-05-18T13:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.3" num="0" last="2015-05-18T13:13:08-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.4" num="0" last="2015-06-25T10:48:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.4" num="0" last="2015-06-25T10:48:38-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.6" num="0" last="2015-09-02T15:27:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.6" num="0" last="2015-09-02T15:27:41-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.8" num="0" last="2015-09-29T13:57:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.8" num="0" last="2015-09-29T13:57:10-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.10" num="0" last="2015-10-08T13:40:39-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.10" num="0" last="2015-10-08T13:40:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.11" num="0" last="2015-10-29T10:26:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.11" num="0" last="2015-10-29T10:26:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="15.0.0" num="1" last="2015-12-15T16:04:32-06:00">unbronze</medal>
+        <medal rating="3" platform="Mac" version="15.0.0" num="1" last="2015-12-15T16:04:28-06:00">unbronze</medal>
+        <medal rating="2" platform="Linux" version="17.0.0" num="1" last="2017-08-04T09:32:33-05:00">knownnottowork</medal>
+        <category>Non-Applications/Components</category>
+        <flag>component</flag>
+        <installeddisplaypattern>Microsoft .NET Framework 2.0 Service Pack 2.*</installeddisplaypattern>
+        <bottletemplate>winxp</bottletemplate>
+        <bottletemplate>win2000</bottletemplate>
+        <bottletemplate>winvista</bottletemplate>
+        <bottletemplate>win7</bottletemplate>
+        <downloadurl>http://download.microsoft.com/download/c/6/e/c6e88215-0178-4c6c-b5f3-158ff77b1f38/NetFx20SP2_x86.exe</downloadurl>
+        <downloadpageurl>http://www.microsoft.com/downloads/en/details.aspx?FamilyID=5B2C0358-915B-4EB5-9B1D-10E506DA9D0F</downloadpageurl>
+        <extrafor>com.codeweavers.c4.1578</extrafor>
+      </appprofile>
+      <installprofile>
+        <comment>20160317 - turned on always re-download the installer.</comment>
+        <predependency>com.codeweavers.c4.1578</predependency>
+        <alwaysredownload>true</alwaysredownload>
+        <installerwinver>win2000</installerwinver>
+        <installerdlloverrides>ngen.exe,regsvcs.exe,mscorsvw.exe=b</installerdlloverrides>
+        <postinstallreboot>false</postinstallreboot>
+        <skipmenu>true</skipmenu>
+        <skipassoc>true</skipassoc>
+      </installprofile>
+    </app>
+    <app appid="com.codeweavers.c4.6945" timestamp="2016-08-11T13:02:07-05:00">
+      <cxversion product="cxoffice">15.5</cxversion>
+      <name>Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="en">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="de">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="fr">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="ja">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <name lang="zh-cn">Microsoft .NET Framework 2.0 Service Pack 2</name>
+      <appprofile>
+        <description>Microsoft .NET Framework 2.0 Service Pack 2 provides cumulative roll-up updates for customer reported issues found after the release of Microsoft .NET Framework 2.0. In addition, this release provides security improvements, and prerequisite feature support for .NET Framework 3.0 Service Pack 1, and .NET Framework 3.5.&lt;br&gt;&lt;br&gt;</description>
+        <description lang="en">Microsoft .NET Framework 2.0 Service Pack 2 provides cumulative roll-up updates for customer reported issues found after the release of Microsoft .NET Framework 2.0. In addition, this release provides security improvements, and prerequisite feature support for .NET Framework 3.0 Service Pack 1, and .NET Framework 3.5.&lt;br&gt;&lt;br&gt;</description>
+        <description lang="ja">&lt;p&gt;Microsoft .NET Framework 2.0 Service Pack 2 は、Microsoft .NET Framework 2.0 のリリース後に発見され報告を受けた問題に対する累積的なロールアップ更新プログラムを提供します。このリリースによって、セキュリティの強化に加え、.NET Framework 3.0 Service Pack 1 および .NET Framework 3.5 のサポートに必要な機能も提供されます。&lt;/p&gt;</description>
+        <comment>20160811: New profile for 64-bit support. Removed download glob to prevent a wrong architecture's installer being used.</comment>
+        <medal rating="1" platform="Linux" version="9.0.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.0.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.0.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.0.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.1.0" num="1" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.1.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="9.2.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="9.2.0" num="1" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.0" num="1" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.0.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.0.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.0.3" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.0.3" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.1.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.1.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.1.1" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Linux" version="10.2.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="1" platform="Mac" version="10.2.0" num="0" last="2012-03-06T09:20:01-06:00">knownnottowork</medal>
+        <medal rating="3" platform="Linux" version="11.0.0" num="1" last="2012-04-25T03:40:47-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.0" num="1" last="2012-04-25T03:40:47-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.1" num="0" last="2012-03-20T15:09:29-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.2" num="0" last="2012-03-21T09:03:54-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.2" num="0" last="2012-03-21T09:03:46-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.0.3" num="1" last="2012-05-13T07:18:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.0.3" num="0" last="2012-04-09T16:47:00-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.1.0" num="0" last="2012-05-22T10:49:26-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.1.0" num="0" last="2012-05-22T10:49:19-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.0" num="1" last="2012-06-25T15:29:27-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.0" num="0" last="2012-06-25T14:17:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.2.1" num="0" last="2012-08-27T10:32:00-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.1" num="0" last="2012-08-27T10:31:51-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.2.2" num="0" last="2012-09-21T09:20:51-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="11.3.0" num="0" last="2012-11-05T14:10:49-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="11.3.0" num="0" last="2012-11-05T14:09:17-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.0.0" num="1" last="2013-01-18T10:10:37-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.0.0" num="0" last="2012-11-27T15:30:27-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.0" num="0" last="2013-01-18T10:06:22-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.0" num="0" last="2013-01-18T09:57:10-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.1" num="0" last="2013-01-25T09:32:27-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.1.2" num="0" last="2013-03-01T09:53:50-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.1.2" num="0" last="2013-03-01T09:53:44-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.0" num="0" last="2013-05-01T14:09:28-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.0" num="0" last="2013-05-01T14:09:20-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.1" num="0" last="2013-05-15T11:11:57-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.1" num="0" last="2013-05-15T11:11:50-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.2.2" num="0" last="2013-07-22T11:13:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.2.2" num="0" last="2013-07-22T11:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.0" num="0" last="2013-06-19T10:20:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.0" num="0" last="2013-06-19T10:19:56-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="12.5.1" num="0" last="2013-10-16T14:37:05-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="12.5.1" num="0" last="2013-10-16T14:36:57-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.0" num="0" last="2013-11-01T11:35:59-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.0" num="0" last="2013-11-01T11:35:49-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.0.1" num="0" last="2013-12-04T13:47:45-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.0.1" num="0" last="2013-12-04T13:47:33-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.0" num="0" last="2014-02-04T15:03:11-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.0" num="0" last="2014-02-04T15:03:03-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.2" num="0" last="2014-03-19T11:29:29-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.2" num="0" last="2014-03-19T11:29:23-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.1.3" num="0" last="2014-04-28T09:49:20-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.1.3" num="0" last="2014-04-28T09:49:09-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="13.2.0" num="0" last="2014-07-10T09:49:11-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="13.2.0" num="0" last="2014-07-10T09:49:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.0" num="0" last="2014-09-12T14:22:23-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.0" num="0" last="2014-09-12T14:22:14-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.1" num="0" last="2014-10-30T08:57:25-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.1" num="0" last="2014-10-30T08:57:18-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.0.3" num="0" last="2014-11-17T10:36:29-06:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.0.3" num="0" last="2014-11-17T10:36:20-06:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.0" num="0" last="2015-03-19T13:19:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.0" num="0" last="2015-03-19T13:19:39-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.1" num="0" last="2015-04-21T11:08:55-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.1" num="0" last="2015-04-21T11:08:46-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.3" num="0" last="2015-05-18T13:13:17-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.3" num="0" last="2015-05-18T13:13:08-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.4" num="0" last="2015-06-25T10:48:49-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.4" num="0" last="2015-06-25T10:48:38-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.6" num="0" last="2015-09-02T15:27:50-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.6" num="0" last="2015-09-02T15:27:41-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.8" num="0" last="2015-09-29T13:57:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.8" num="0" last="2015-09-29T13:57:10-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.10" num="0" last="2015-10-08T13:40:39-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.10" num="0" last="2015-10-08T13:40:24-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="14.1.11" num="0" last="2015-10-29T10:26:22-05:00">bronze</medal>
+        <medal rating="3" platform="Mac" version="14.1.11" num="0" last="2015-10-29T10:26:03-05:00">bronze</medal>
+        <medal rating="3" platform="Linux" version="15.0.0" num="1" last="2015-12-15T16:04:32-06:00">unbronze</medal>
+        <medal rating="3" platform="Mac" version="15.0.0" num="1" last="2015-12-15T16:04:28-06:00">unbronze</medal>
+        <medal rating="2" platform="Linux" version="17.0.0" num="1" last="2017-08-04T09:32:33-05:00">knownnottowork</medal>
+        <category>Non-Applications/Components</category>
+        <flag>component</flag>
+        <installeddisplaypattern>Microsoft .NET Framework 2.0 Service Pack 2.*</installeddisplaypattern>
+        <bottletemplate>winxp</bottletemplate>
+        <bottletemplate>win2000</bottletemplate>
+        <bottletemplate>winvista</bottletemplate>
+        <bottletemplate>win7</bottletemplate>
+        <bottletemplate>win8</bottletemplate>
+        <bottletemplate>win10</bottletemplate>
+        <bottletemplate>winxp_64</bottletemplate>
+        <bottletemplate>winvista_64</bottletemplate>
+        <bottletemplate>win7_64</bottletemplate>
+        <bottletemplate>win8_64</bottletemplate>
+        <bottletemplate>win10_64</bottletemplate>
+        <downloadurl>http://download.microsoft.com/download/c/6/e/c6e88215-0178-4c6c-b5f3-158ff77b1f38/NetFx20SP2_x86.exe</downloadurl>
+        <downloadurl64>https://download.microsoft.com/download/c/6/e/c6e88215-0178-4c6c-b5f3-158ff77b1f38/NetFx20SP2_x64.exe</downloadurl64>
+        <downloadpageurl>http://www.microsoft.com/downloads/en/details.aspx?FamilyID=5B2C0358-915B-4EB5-9B1D-10E506DA9D0F</downloadpageurl>
+        <extrafor>com.codeweavers.c4.1578</extrafor>
+      </appprofile>
+      <installprofile>
+        <comment>20160317 - turned on always re-download the installer.</comment>
+        <predependency>com.codeweavers.c4.1578</predependency>
+        <alwaysredownload>true</alwaysredownload>
+        <installerdlloverrides>ngen.exe,regsvcs.exe,mscorsvw.exe=b</installerdlloverrides>
+        <postinstallreboot>false</postinstallreboot>
+        <skipmenu>true</skipmenu>
+        <skipassoc>true</skipassoc>
+      </installprofile>
+      <installprofile>
+        <useif>
+          <not>
+            <match name="bottletemplate">.*_64$</match>
+          </not>
+        </useif>
+        <comment>In 32-bit bottles, use win2000 for install.</comment>
+        <installerwinver>win2000</installerwinver>
+      </installprofile>
+      <installprofile>
+        <useif>
+          <match name="bottletemplate">.*_64$</match>
+        </useif>
+        <comment>In 64-bit bottles, use winxp for install.</comment>
+        <installerwinver>winxp</installerwinver>
+      </installprofile>
+    </app>
+  </applications>
+</c4p>
+<!-- Signature
+9265fa940c1b158134f9104e9789e9dfa68703452342c431ce06ebd0a92d6419a2d55ec4e98c8b85d77de3460a66928c6bd4e440b16c4b6d06cf3c44ab362928c2bf47ae8d5320455e22f86af37d4188316b10783476d74e945e351078a1b0a0532d95ab5479e116e56e8716ba53d69a0613e66b2a89d5fc28037d2f85dd82e7ab34fd23dcac302c40321023a3b8868fef641581363f3413fd35e7786783d4475b71a1aff22a51330f29e7e6a2cf9804f5ad2c996a2bfb1d81c1012e3f0110b3590b275f7f70779daa7cc4c604cb658d8bc2ea041bbf29d8b897a8859f16b1537eb88efbd582ba8c384d983cba6d6997906e983611e55fbbd228f19bac291e43
+-->
